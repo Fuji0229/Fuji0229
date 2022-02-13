@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obisidian笔记/笔记语法/未命名.md",
+            "file": "obisidian笔记/笔记语法/Markdown语法.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obisidian笔记/笔记语法/未命名.md",
+                "file": "obisidian笔记/笔记语法/Markdown语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,8 @@
   },
   "active": "7c6ae7f17077c329",
   "lastOpenFiles": [
-    "obisidian笔记/笔记语法/未命名.md",
+    "obisidian笔记/笔记语法/Markdown语法.md",
+    "链接地址.md",
     "编程/Java/JVM/深入理解JVM.md",
     "笔记/未命名.md"
   ]
