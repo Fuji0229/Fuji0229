@@ -5,6 +5,10 @@
       "path": "obisidian笔记/笔记语法/Markdown语法.md"
     },
     {
+      "basename": "附件地址",
+      "path": "附件地址.md"
+    },
+    {
       "basename": "深入理解JVM",
       "path": "编程/Java/JVM/深入理解JVM.md"
     }
