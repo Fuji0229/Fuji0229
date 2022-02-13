@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "d9345a982d6364b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c6ae7f17077c329",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "编程/Java/JVM/未命名.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f60fd36dd9a4f57b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae57e6491f62e0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03618c214f0b450d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65b0fe6fc7ae7e7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "999260e1cd04ca04",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8063a74dfccdd04",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1e2204b59222c94",
+    "type": "split",
+    "children": [
+      {
+        "id": "d257b07a1b4dd994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0b505da22251bb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程/Java/JVM/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0856387c84285c29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef0caa0109272414",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "72db4b2931a4d1da",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "8aa9a1bf171a7345",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a3de34ce5242815",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "da1fd138371e490f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c3b5a7b8d3833f2",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7c6ae7f17077c329",
+  "lastOpenFiles": [
+    "编程/Java/JVM/未命名.md",
+    "笔记/未命名.md"
+  ]
+}
