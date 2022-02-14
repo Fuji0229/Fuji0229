@@ -7,12 +7,8 @@
         "id": "7c6ae7f17077c329",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "work/院内-物资管理/通用/bugfix-1.0.10.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/院内-物资管理/通用/bugfix-1.0.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
