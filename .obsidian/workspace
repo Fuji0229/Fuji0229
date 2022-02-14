@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识库/思维/系统思考.md",
+            "file": "知识库/思维/方法.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/思维/系统思考.md",
+                "file": "知识库/思维/方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +158,7 @@
   },
   "active": "7c6ae7f17077c329",
   "lastOpenFiles": [
+    "知识库/思维/方法.md",
     "知识库/思维/系统思考.md",
     "Day Planners/Day Planner-20220214.md",
     "Day Planners/Day Planner-20220213.md",
