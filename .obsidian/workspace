@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识库/思维/方法.md",
+            "file": "编程/网络/网络是怎样连接的/网络是怎样连接的.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/思维/方法.md",
+                "file": "编程/网络/网络是怎样连接的/网络是怎样连接的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +158,7 @@
   },
   "active": "7c6ae7f17077c329",
   "lastOpenFiles": [
+    "编程/网络/网络是怎样连接的/网络是怎样连接的.md",
     "知识库/思维/方法.md",
     "知识库/思维/系统思考.md",
     "Day Planners/Day Planner-20220214.md",
@@ -166,7 +167,6 @@
     "obisidian笔记/笔记语法/Markdown语法.md",
     "附件地址.md",
     "链接地址.md",
-    "编程/Java/JVM/深入理解JVM.md",
-    "笔记/未命名.md"
+    "编程/Java/JVM/深入理解JVM.md"
   ]
 }
