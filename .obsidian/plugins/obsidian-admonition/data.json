@@ -3,7 +3,7 @@
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "6.11.0",
-  "warnedAboutNC": false,
+  "warnedAboutNC": true,
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "syncLinks": true,

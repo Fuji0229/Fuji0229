@@ -1,0 +1,128 @@
+{
+  "initialized": true,
+  "trackedProjects": [
+    "/"
+  ],
+  "filesCheckpoint": {
+    "附件地址.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "编程/网络/网络是怎样连接的/网络是怎样连接的.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "编程/Java/JVM/深入理解JVM.md": {
+      "size": 58,
+      "tags": 0,
+      "links": 0
+    },
+    "知识库/思维/方法.md": {
+      "size": 1182,
+      "tags": 0,
+      "links": 0
+    },
+    "知识库/思维/系统思考.md": {
+      "size": 892,
+      "tags": 0,
+      "links": 0
+    },
+    "README.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "obisidian笔记/笔记语法/Markdown语法.md": {
+      "size": 1636,
+      "tags": 0,
+      "links": 3
+    },
+    "Day Planners/Day Planner-20220215.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220213.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220214.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    }
+  },
+  "commitTypes": {
+    "/": {
+      "Refactor": 0,
+      "Create": 0,
+      "Link": 0,
+      "Expand": 0
+    }
+  },
+  "dailyCommits": {
+    "/": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0
+    }
+  },
+  "weeklyCommits": {
+    "/": {
+      "Mon": 0,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
+      "Sat": 0,
+      "Sun": 0
+    }
+  },
+  "recentCommits": {
+    "/": {
+      "Expanded": [],
+      "Created": [],
+      "Renamed": [],
+      "Tagged": [],
+      "Refactored": [],
+      "Deleted": [],
+      "Linked": [],
+      "Removed Tags from": [],
+      "Removed Links from": []
+    }
+  },
+  "ignoreList": [],
+  "divWidth": 50,
+  "divHeight": 400,
+  "divAlign": "left",
+  "topCommits": 2,
+  "commitThreshold": 2000,
+  "commitPerc": 15,
+  "fillColor": "rgba(51, 153, 204, 0.4)",
+  "borderColor": "rgba(51, 153, 204, 1)",
+  "gridColor": "grey"
+}
