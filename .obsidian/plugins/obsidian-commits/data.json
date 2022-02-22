@@ -70,7 +70,7 @@
       "links": 0
     },
     "计算机技术与科学/数据结构/第一章 数据结构概论.md": {
-      "size": 2061,
+      "size": 2374,
       "tags": 0,
       "links": 0
     },
@@ -85,7 +85,7 @@
       "Refactor": 26,
       "Create": 12,
       "Link": 0,
-      "Expand": 1
+      "Expand": 2
     }
   },
   "dailyCommits": {
@@ -112,14 +112,14 @@
       "19": 0,
       "20": 0,
       "21": 0,
-      "22": 1,
+      "22": 2,
       "23": 0
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 23,
-      "Tue": 2,
+      "Tue": 3,
       "Wed": 0,
       "Thu": 0,
       "Fri": 14,
@@ -130,6 +130,7 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"计算机技术与科学/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>"
       ],
       "Created": [
