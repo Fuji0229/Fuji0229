@@ -70,7 +70,7 @@
       "links": 0
     },
     "计算机技术与科学/数据结构/第一章 数据结构概论.md": {
-      "size": 0,
+      "size": 2061,
       "tags": 0,
       "links": 0
     },
@@ -85,7 +85,7 @@
       "Refactor": 26,
       "Create": 12,
       "Link": 0,
-      "Expand": 0
+      "Expand": 1
     }
   },
   "dailyCommits": {
@@ -112,14 +112,14 @@
       "19": 0,
       "20": 0,
       "21": 0,
-      "22": 0,
+      "22": 1,
       "23": 0
     }
   },
   "weeklyCommits": {
     "/": {
       "Mon": 23,
-      "Tue": 1,
+      "Tue": 2,
       "Wed": 0,
       "Thu": 0,
       "Fri": 14,
@@ -129,7 +129,9 @@
   },
   "recentCommits": {
     "/": {
-      "Expanded": [],
+      "Expanded": [
+        "<a class=\"internal-link\" href=\"计算机技术与科学/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>"
+      ],
       "Created": [
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220218.md\"> Day Planner-20220218 </a>",
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/未命名.md\"> 未命名 </a>",
