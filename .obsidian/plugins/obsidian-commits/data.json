@@ -83,19 +83,24 @@
       "size": 21,
       "tags": 0,
       "links": 0
+    },
+    "Day Planners/Day Planner-20220224.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 26,
-      "Create": 13,
+      "Create": 14,
       "Link": 0,
       "Expand": 3
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 0,
+      "0": 1,
       "1": 0,
       "2": 0,
       "3": 0,
@@ -126,7 +131,7 @@
       "Mon": 23,
       "Tue": 4,
       "Wed": 1,
-      "Thu": 0,
+      "Thu": 1,
       "Fri": 14,
       "Sat": 0,
       "Sun": 0
@@ -152,7 +157,8 @@
         "<a class=\"internal-link\" href=\"未命名 1.md\"> 未命名 1 </a>",
         "<a class=\"internal-link\" href=\"编程/数据结构/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220222.md\"> Day Planner-20220222 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220223.md\"> Day Planner-20220223 </a>"
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220223.md\"> Day Planner-20220223 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220224.md\"> Day Planner-20220224 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/基本逻辑.md\"> 基本逻辑 </a>",
