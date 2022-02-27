@@ -6,5 +6,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": true,
-  "promptDelete": false
+  "promptDelete": true,
+  "attachmentFolderPath": "附件",
+  "showUnsupportedFiles": true
 }
