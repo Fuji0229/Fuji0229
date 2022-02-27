@@ -112,14 +112,14 @@
     "知识库/生活/规律/最佳作息表.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 30,
       "Create": 21,
-      "Link": 0,
+      "Link": 1,
       "Expand": 3
     }
   },
@@ -147,7 +147,7 @@
       "19": 6,
       "20": 0,
       "21": 0,
-      "22": 6,
+      "22": 7,
       "23": 0
     }
   },
@@ -159,7 +159,7 @@
       "Thu": 1,
       "Fri": 15,
       "Sat": 0,
-      "Sun": 10
+      "Sun": 11
     }
   },
   "recentCommits": {
@@ -228,7 +228,9 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/学习/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/学习/未命名.md\"> 未命名 </a>"
       ],
-      "Linked": [],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"知识库/生活/规律/最佳作息表.md\"> 最佳作息表 </a>"
+      ],
       "Removed Tags from": [],
       "Removed Links from": []
     }
