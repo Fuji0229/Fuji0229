@@ -8,5 +8,6 @@
   "showLineNumber": true,
   "promptDelete": true,
   "attachmentFolderPath": "附件",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }
