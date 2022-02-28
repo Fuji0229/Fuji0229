@@ -73,12 +73,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "Day Planners/Day Planner-20220228.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 46,
-      "Create": 24,
+      "Create": 25,
       "Link": 1,
       "Expand": 3
     }
@@ -90,7 +95,7 @@
       "2": 0,
       "3": 0,
       "4": 0,
-      "5": 1,
+      "5": 2,
       "6": 0,
       "7": 0,
       "8": 2,
@@ -113,7 +118,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 23,
+      "Mon": 24,
       "Tue": 4,
       "Wed": 1,
       "Thu": 1,
@@ -153,7 +158,8 @@
         "<a class=\"internal-link\" href=\"知识库/生活/规律/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/金字塔原理/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/金字塔原理/表达的逻辑/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"知识库/思维/金字塔原理/未命名.md\"> 未命名 </a>"
+        "<a class=\"internal-link\" href=\"知识库/思维/金字塔原理/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220228.md\"> Day Planner-20220228 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/基本逻辑.md\"> 基本逻辑 </a>",
