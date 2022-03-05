@@ -9,5 +9,10 @@
   "promptDelete": false,
   "attachmentFolderPath": "附件",
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "spellcheck": true
 }
