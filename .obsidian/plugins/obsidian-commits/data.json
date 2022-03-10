@@ -113,12 +113,17 @@
       "size": 21,
       "tags": 0,
       "links": 0
+    },
+    "计算机技术与科学/工作/devops/问题.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 53,
-      "Create": 37,
+      "Refactor": 56,
+      "Create": 38,
       "Link": 2,
       "Expand": 5
     }
@@ -126,7 +131,7 @@
   "dailyCommits": {
     "/": {
       "0": 5,
-      "1": 0,
+      "1": 4,
       "2": 1,
       "3": 1,
       "4": 0,
@@ -157,7 +162,7 @@
       "Tue": 8,
       "Wed": 2,
       "Thu": 4,
-      "Fri": 19,
+      "Fri": 23,
       "Sat": 0,
       "Sun": 39
     }
@@ -208,7 +213,8 @@
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220309.md\"> Day Planner-20220309 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220310.md\"> Day Planner-20220310 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220311.md\"> Day Planner-20220311 </a>"
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220311.md\"> Day Planner-20220311 </a>",
+        "<a class=\"internal-link\" href=\"未命名.md\"> 未命名 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/基本逻辑.md\"> 基本逻辑 </a>",
@@ -238,7 +244,10 @@
         "<a class=\"internal-link\" href=\"知识库/思维/金字塔原理/表达的逻辑/第一章 为什么要用金字塔结构.md\"> 第一章 为什么要用金字塔结构 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/金字塔原理/金字塔原理的基本概念.md\"> 金字塔原理的基本概念 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/数据结构/第二章/线性表.md\"> 线性表 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/devops/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/devops/假设是devops.md\"> 假设是devops </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/devops/问题.md\"> 问题 </a>"
       ],
       "Tagged": [],
       "Refactored": [],
