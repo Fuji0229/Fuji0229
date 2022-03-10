@@ -115,7 +115,7 @@
       "links": 0
     },
     "计算机技术与科学/工作/运维/问题.md": {
-      "size": 0,
+      "size": 5715,
       "tags": 0,
       "links": 0
     }
@@ -125,14 +125,14 @@
       "Refactor": 57,
       "Create": 38,
       "Link": 2,
-      "Expand": 5
+      "Expand": 6
     }
   },
   "dailyCommits": {
     "/": {
       "0": 5,
       "1": 5,
-      "2": 1,
+      "2": 2,
       "3": 1,
       "4": 0,
       "5": 2,
@@ -162,7 +162,7 @@
       "Tue": 8,
       "Wed": 2,
       "Thu": 4,
-      "Fri": 24,
+      "Fri": 25,
       "Sat": 0,
       "Sun": 39
     }
@@ -174,7 +174,8 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/运维/问题.md\"> 问题 </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220218.md\"> Day Planner-20220218 </a>",
