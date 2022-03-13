@@ -130,7 +130,7 @@
       "links": 0
     },
     "计算机技术与科学/git/git使用.md": {
-      "size": 0,
+      "size": 15084,
       "tags": 0,
       "links": 0
     }
@@ -140,7 +140,7 @@
       "Refactor": 58,
       "Create": 41,
       "Link": 2,
-      "Expand": 6
+      "Expand": 7
     }
   },
   "dailyCommits": {
@@ -161,7 +161,7 @@
       "13": 0,
       "14": 3,
       "15": 0,
-      "16": 3,
+      "16": 4,
       "17": 0,
       "18": 0,
       "19": 6,
@@ -179,7 +179,7 @@
       "Thu": 4,
       "Fri": 25,
       "Sat": 0,
-      "Sun": 43
+      "Sun": 44
     }
   },
   "recentCommits": {
@@ -190,7 +190,8 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/运维/问题.md\"> 问题 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/运维/问题.md\"> 问题 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220218.md\"> Day Planner-20220218 </a>",
