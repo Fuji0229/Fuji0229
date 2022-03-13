@@ -130,16 +130,16 @@
       "links": 0
     },
     "计算机技术与科学/git/git使用.md": {
-      "size": 15084,
+      "size": 12578,
       "tags": 0,
-      "links": 0
+      "links": 17
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 58,
+      "Refactor": 59,
       "Create": 41,
-      "Link": 2,
+      "Link": 4,
       "Expand": 7
     }
   },
@@ -162,7 +162,7 @@
       "14": 3,
       "15": 0,
       "16": 4,
-      "17": 0,
+      "17": 3,
       "18": 0,
       "19": 6,
       "20": 0,
@@ -179,7 +179,7 @@
       "Thu": 4,
       "Fri": 25,
       "Sat": 0,
-      "Sun": 44
+      "Sun": 47
     }
   },
   "recentCommits": {
@@ -272,7 +272,9 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>"
       ],
       "Tagged": [],
-      "Refactored": [],
+      "Refactored": [
+        "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>"
+      ],
       "Deleted": [
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/基本逻辑.md\"> 基本逻辑 </a>",
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/基本逻辑.md\"> 基本逻辑 </a>",
@@ -302,7 +304,9 @@
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"知识库/生活/规律/最佳作息表.md\"> 最佳作息表 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

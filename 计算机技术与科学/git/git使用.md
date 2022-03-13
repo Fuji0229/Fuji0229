@@ -57,18 +57,16 @@ git reset --soft
 
 commit 记录有 c、b、a。
 
-![[Pasted image 20220313165831.png]]
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2Fa383895e27dc42e780420036a6781426%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 reset 到 a。
 
-```
-git reset --soft 
+git reset --soft 1a900ac29eba73ce817bf959f82ffcb0bfa38f75
 
 ```
 
 此时的 HEAD 到了 a，而 b、c 的修改内容都回到了暂存区。
-
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F8d459dea60644aff9bea2fbe4677760b%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
+![[Pasted image 20220313170230.png]]
 
 ## cherry-pick
 
@@ -95,16 +93,16 @@ commit 都提交了，为什么还要复制新的出来？
 #### 复制单个
 
 现在有一条feature分支，commit 记录如下：
+![[Pasted image 20220313170304.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F4ab7e1f5b9fe498387f8f3e395a50907%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 需要把 b 复制到另一个分支，首先把 commitHash 复制下来，然后切到 master 分支。
+![[Pasted image 20220313170326.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F3edef9dcb72c4efd9e7305d94303e468%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 当前 master 最新的记录是 a，使用 `cherry-pick` 把 b 应用到当前分支。
+![[Pasted image 20220313170347.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2Fc2961c8444a543acb9e686123a4e47b8%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 完成后看下最新的 log，b 已经应用到 master，作为最新的 commit 了。可以看到 commitHash 和之前的不一样，但是提交时间还是保留之前的。
 
@@ -133,16 +131,18 @@ git cherry-pick commit1^..commit2
 ### cherry-pick 代码冲突
 
 在 `cherry-pick` 多个commit时，可能会遇到代码冲突，这时 `cherry-pick` 会停下来，让用户决定如何继续操作。下面看看怎么解决这种场景。
+![[Pasted image 20220313170412.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2Fe7c77959a8dd4e8784115430080fd930%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 还是 feature 分支，现在需要把 c、d、e 都复制到 master 分支上。先把起点c和终点e的 commitHash 记下来。
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F90769bd62a294accbd6073c41339310d%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
+![[Pasted image 20220313170431.png]]
+
 
 切到 master 分支，使用区间的 `cherry-pick`。可以看到 c 被成功复制，当进行到 d 时，发现代码冲突，`cherry-pick` 中断了。这时需要解决代码冲突，重新提交到暂存区。
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F94097be42d0a4caaaeaccf8a3c2d71b2%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
+![[Pasted image 20220313170446.png]]
+
 
 然后使用 `cherry-pick --continue` 让 `cherry-pick` 继续进行下去。最后 e 也被复制进来，整个流程就完成了。
 
@@ -187,8 +187,8 @@ git cherry-pick --quit
 学会 revert 之后，立马就可以拯救这种尴尬的情况。
 
 现在 master 记录如下：
+![[Pasted image 20220313170529.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2Fc25ca458d9434f0f88cd90fd88032045%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 ```
 git revert 21dcd937fe555f58841b17466a99118deb489212
@@ -196,24 +196,24 @@ git revert 21dcd937fe555f58841b17466a99118deb489212
 ```
 
 revert 掉自己提交的 commit。
+![[Pasted image 20220313170546.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F0344e29aeb9d4250bdec44a52655224d%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 因为 revert 会生成一条新的提交记录，这时会让你编辑提交信息，编辑完后 :wq 保存退出就好了。
+![[Pasted image 20220313170605.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2Fceaf7e389fd34136a6257c4d0d9f89b3%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 再来看下最新的 log，生成了一条 revert 记录，虽然自己之前的提交记录还是会保留着，但你修改的代码内容已经被撤回了。
 
 #### revert 合并提交
 
 在 git 的 commit 记录里，还有一种类型是合并提交，想要 revert 合并提交，使用上会有些不一样。
-
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F925ce20f206a4656b85e772f32ce2012%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
+![[Pasted image 20220313170624.png]]
 
 现在的 master 分支里多了条合并提交。
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F5199013b283c4c7992b407c0eb1d3815%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
+![[Pasted image 20220313170646.png]]
+
 
 使用刚刚同样的 revert 方法，会发现命令行报错了。
 
@@ -238,11 +238,11 @@ git revert -m 1 <commitHash>
 
 这时就需要 revert 掉之前 revert 的合并提交，有点拗口，接下来看操作吧。
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2Ffd039172e78c4543aeaced451f2fe666%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
+![[Pasted image 20220313170700.png]]
 
 现在 master 的记录是这样的。
+![[Pasted image 20220313170759.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F420dc885841c41bb8102fda39fce7853%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 再次使用 revert，之前被 revert 的修改内容就又回来了。
 
@@ -262,15 +262,15 @@ git revert -m 1 <commitHash>
 
 ### 命令使用
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F9855c6fcc8e84545952f3f93d2a0445a%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
+![[Pasted image 20220313170848.png]]
 
 分支记录如上，想要 reset 到 b。
+![[Pasted image 20220313170910.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F1c9e3cc1281f436fa3f0d5e10cb10462%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 误操作 reset 过头，b 没了，最新的只剩下 a。
+![[Pasted image 20220313170927.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F36cc5814ef784a8180676058d4636f8e%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 这时用 `git reflog` 查看历史记录，把错误提交的那次 commitHash 记下。
 
