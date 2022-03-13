@@ -132,14 +132,14 @@
     "计算机技术与科学/git/git使用.md": {
       "size": 12578,
       "tags": 0,
-      "links": 17
+      "links": 18
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 59,
       "Create": 41,
-      "Link": 4,
+      "Link": 5,
       "Expand": 7
     }
   },
@@ -162,7 +162,7 @@
       "14": 3,
       "15": 0,
       "16": 4,
-      "17": 3,
+      "17": 4,
       "18": 0,
       "19": 6,
       "20": 0,
@@ -179,7 +179,7 @@
       "Thu": 4,
       "Fri": 25,
       "Sat": 0,
-      "Sun": 47
+      "Sun": 48
     }
   },
   "recentCommits": {
@@ -305,6 +305,7 @@
       "Linked": [
         "<a class=\"internal-link\" href=\"知识库/生活/规律/最佳作息表.md\"> 最佳作息表 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>"
       ],

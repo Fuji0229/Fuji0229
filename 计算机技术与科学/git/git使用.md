@@ -273,8 +273,8 @@ git revert -m 1 <commitHash>
 
 
 这时用 `git reflog` 查看历史记录，把错误提交的那次 commitHash 记下。
+![[Pasted image 20220313170951.png]]
 
-![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fp3-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2Fee749d2bd3564213b7a4ee565c458f6d%7Etplv-k3u1fbpfcp-zoom-in-crop-mark%3A1304%3A0%3A0%3A0.awebp)
 
 再次 reset 回去，就会发现 b 回来了。
 
