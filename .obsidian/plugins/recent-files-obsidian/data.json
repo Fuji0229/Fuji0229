@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "线性表",
+      "path": "计算机技术与科学/数据结构/第二章/线性表.md"
+    },
+    {
+      "basename": "第一章 数据结构概论",
+      "path": "计算机技术与科学/数据结构/第一章 数据结构概论.md"
+    },
+    {
       "basename": "git使用",
       "path": "计算机技术与科学/git/git使用.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "bug处理",
       "path": "计算机技术与科学/工作/bug处理.md"
-    },
-    {
-      "basename": "线性表",
-      "path": "计算机技术与科学/数据结构/第二章/线性表.md"
-    },
-    {
-      "basename": "第一章 数据结构概论",
-      "path": "计算机技术与科学/数据结构/第一章 数据结构概论.md"
     },
     {
       "basename": "Markdown语法",
