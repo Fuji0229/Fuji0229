@@ -173,12 +173,17 @@
       "size": 21,
       "tags": 0,
       "links": 0
+    },
+    "Day Planners/Day Planner-20220512.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 59,
-      "Create": 49,
+      "Create": 50,
       "Link": 5,
       "Expand": 7
     }
@@ -204,7 +209,7 @@
       "16": 4,
       "17": 4,
       "18": 0,
-      "19": 6,
+      "19": 7,
       "20": 0,
       "21": 1,
       "22": 17,
@@ -216,7 +221,7 @@
       "Mon": 25,
       "Tue": 9,
       "Wed": 4,
-      "Thu": 4,
+      "Thu": 5,
       "Fri": 26,
       "Sat": 0,
       "Sun": 52
@@ -282,7 +287,8 @@
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220401.md\"> Day Planner-20220401 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220423.md\"> Day Planner-20220423 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220424.md\"> Day Planner-20220424 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220511.md\"> Day Planner-20220511 </a>"
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220511.md\"> Day Planner-20220511 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220512.md\"> Day Planner-20220512 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/基本逻辑.md\"> 基本逻辑 </a>",
