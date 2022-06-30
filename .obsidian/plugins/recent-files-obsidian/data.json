@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "SQL调优",
       "path": "计算机技术与科学/Java/面试题/SQL调优.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "JDK源码级别彻剖析JVM类加载机制",
