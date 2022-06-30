@@ -17,6 +17,11 @@
       background-color: var(--interactive-accent-hover);
       color: var(--text-on-accent);
       opacity: 1; }
+  #quick-explorer .explorable-separator::before {
+    content: "\00a0/\00a0"; }
+
+.menu.qe-popup-menu ~ .popover.hover-popover {
+  z-index: var(--layer-menu); }
 
 .qe-popup-menu .menu-item:not(.is-disabled):not(.is-label) {
   display: flex;
