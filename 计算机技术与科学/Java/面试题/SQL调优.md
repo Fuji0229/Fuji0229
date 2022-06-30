@@ -25,10 +25,33 @@ sql优化主要解决的问题：
 		1. 一般索引
 			1. 最普通的索引
 			2. 创建销毁语句
-		2. 联合索引
+				1. create index normal_index on cxuan003(id);
+				2. drop index normal_index on cxuan003;
+		2. 唯一索引
+			1. 唯一索引列的值必须唯一，允许有空值，如果是组合索引，则列值的组合必须唯
+			2. 创建 create unique index normal_index on cxuan003(id);
 		3. 主键索引
-		4. 全文索引
-		5. 唯一索引
+			1. 是一种特殊的索引，一个表只能有一个主键，不允许有空值。一般是在建表的时候同时创建主键索引。
+			2. 创建
+				1. CREATE TABLE `table` (
+				  id int(11) NOT NULL AUTO_INCREMENT , 
+				  title char(255) NOT NULL ,
+				  PRIMARY KEY (`id`) )
+		4. 联合索引
+			1. 指多个字段上创建的索引，只有在查询条件中使用了创建索引时的第一个字段，索引才会被使用。使用组合索引时遵循最左前缀原则
+			2. 
+		5. 联合索引
+			1. 主要用来查找文本中的关键字，而不是直接与索引中的值相比较，目前只有 char、varchar，text 列上可以创建全文索引，创建表的适合添加全文索引
+			2. 创建
+			CREATE TABLE `table` ( 
+				`id` int(11) NOT NULL AUTO_INCREMENT , 
+				`title` char(255) CHARACTER NOT NULL ,
+				 `content` text CHARACTER NULL , 
+				 `time` int(10) NULL DEFAULT NULL ,
+				  PRIMARY KEY (`id`), 
+				  FULLTEXT (content) );
+				或者 
+				CREATE FULLTEXT INDEX index_content ON article(content)
 
 2.避免低效率的查询语句
 	1. SQL语句中IN包含的值不应过多

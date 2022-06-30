@@ -34,5 +34,7 @@
   "obsidian-enhancing-mindmap",
   "nldates-obsidian",
   "obsidian-git",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-to-anki-plugin",
+  "todoist-sync-plugin"
 ]

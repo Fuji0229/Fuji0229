@@ -2,7 +2,7 @@
   "legacyEditor": false,
   "defaultViewMode": "source",
   "showFrontmatter": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
