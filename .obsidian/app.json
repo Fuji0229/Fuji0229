@@ -1,18 +1,18 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "defaultViewMode": "source",
   "showFrontmatter": true,
-  "strictLineBreaks": true,
-  "foldHeading": true,
-  "foldIndent": true,
-  "showLineNumber": true,
-  "promptDelete": false,
-  "attachmentFolderPath": "附件",
-  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "vimMode": false,
   "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Fuji0229",
   "spellcheckLanguages": [
     "zh-CN",
     "en-US"
   ],
-  "spellcheck": true
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "userIgnoreFilters": null,
+  "promptDelete": false
 }

@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "d9345a982d6364b1",
+    "id": "243b01b2691eb0e6",
     "type": "split",
     "children": [
       {
-        "id": "7c6ae7f17077c329",
+        "id": "754a53247399c8e8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "计算机技术与科学/Java/JVM/JDK源码级别彻剖析JVM类加载机制.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f60fd36dd9a4f57b",
+    "id": "99bedab1549034cb",
     "type": "split",
     "children": [
       {
-        "id": "fae57e6491f62e0a",
+        "id": "73a8065a9639e119",
         "type": "tabs",
         "children": [
           {
-            "id": "03618c214f0b450d",
+            "id": "39cfa036a99a855c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "65b0fe6fc7ae7e7f",
+            "id": "c45fef973b3a24ee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,15 +46,7 @@
             }
           },
           {
-            "id": "999260e1cd04ca04",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "d8063a74dfccdd04",
+            "id": "f7e44ebe2e76ae3c",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -72,32 +60,53 @@
     "width": 300
   },
   "right": {
-    "id": "a1e2204b59222c94",
+    "id": "64cd576c686a09cb",
     "type": "split",
     "children": [
       {
-        "id": "d257b07a1b4dd994",
+        "id": "b25b7621c12a3be1",
         "type": "tabs",
         "children": [
           {
-            "id": "c0b505da22251bb1",
+            "id": "5d48d89c1e4e16ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机技术与科学/Java/JVM/JDK源码级别彻剖析JVM类加载机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0856387c84285c29",
+            "id": "6fa72ec3ace11799",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a22b61c62dd5a279",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9f9c3a5c3ce2aff",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -105,7 +114,7 @@
             }
           },
           {
-            "id": "ef0caa0109272414",
+            "id": "da2dc8d2274fc0f2",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -113,7 +122,7 @@
             }
           },
           {
-            "id": "72db4b2931a4d1da",
+            "id": "5905db6c5e5fcef2",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -121,7 +130,7 @@
             }
           },
           {
-            "id": "8aa9a1bf171a7345",
+            "id": "7f43819daf62b8dd",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -129,40 +138,21 @@
             }
           },
           {
-            "id": "6778f096bbdadc2e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "计算机技术与科学/Java/JVM/JDK源码级别彻剖析JVM类加载机制.md"
-              }
-            }
-          },
-          {
-            "id": "fb0bc188177fa6b9",
+            "id": "4a3a4d6a5b9684c6",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "64c6173a51488051",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
-        "id": "da1fd138371e490f",
+        "id": "341316ee551f6ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3b5a7b8d3833f2",
+            "id": "d6c49bef0640c6be",
             "type": "leaf",
             "state": {
               "type": "map-of-content",
@@ -173,19 +163,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "7c6ae7f17077c329",
+  "active": "754a53247399c8e8",
   "lastOpenFiles": [
-    "计算机技术与科学/Java/JVM/JDK源码级别彻剖析JVM类加载机制.md",
-    "计算机技术与科学/Java/JVM/深入理解JVM.md",
-    "计算机技术与科学/数据结构/第二章/线性表.md",
-    "计算机技术与科学/数据结构/第一章 数据结构概论.md",
-    "计算机技术与科学/git/git使用.md",
-    "计算机技术与科学/工作/运维/问题.md",
-    "计算机技术与科学/工作/bug处理.md",
-    "obisidian笔记/笔记语法/Markdown语法.md",
-    "Day Planners/Day Planner-20220305.md",
-    "Day Planners/Day Planner-20220302.md"
+    "2022-06-29.md",
+    "Fuji0229/知识库/思维/未命名.md",
+    "Fuji0229/计算机技术与科学/Java/面试题/设计模式.md",
+    "Fuji0229/计算机技术与科学/Java/面试题/Spring面试题.md",
+    "Fuji0229/计算机技术与科学/Java/面试题/SQL调优.md",
+    "Fuji0229/计算机技术与科学/Java/框架/spring/未命名.md",
+    "Fuji0229/Day Planners/Day Planner-20220306.md",
+    "Fuji0229/Day Planners/Day Planner-20220305.md",
+    "Fuji0229/Day Planners/Day Planner-20220222.md",
+    "Fuji0229/计算机技术与科学/Java/框架/spring-boot/Spring Boot 自动装配原理.md"
   ]
 }
