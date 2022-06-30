@@ -1,9 +1,9 @@
 {
   "translucency": true,
-  "cssTheme": "Nebula",
+  "cssTheme": "Yin and Yang",
   "textFontFamily": "楷体",
-  "theme": "moonstone",
-  "baseFontSize": 17,
+  "theme": "system",
+  "baseFontSize": 19,
   "interfaceFontFamily": "楷体",
   "monospaceFontFamily": "楷体"
 }
