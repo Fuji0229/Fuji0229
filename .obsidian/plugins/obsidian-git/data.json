@@ -18,7 +18,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "",
+  "basePath": "https://oauth2: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@github.com/Fuji0229/Fuji0229.git",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false
 }
