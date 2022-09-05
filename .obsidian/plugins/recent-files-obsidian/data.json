@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "TenantConfig",
+      "path": "计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md"
+    },
+    {
+      "basename": "git使用",
+      "path": "计算机技术与科学/git/git使用.md"
+    },
+    {
+      "basename": "git提交至github",
+      "path": "计算机技术与科学/git/git提交至github.md"
+    },
+    {
+      "basename": "Swagger2Config",
+      "path": "计算机技术与科学/项目/ERP项目/华夏ERP/config/Swagger2Config.md"
+    },
+    {
+      "basename": "PluginConfiguration",
+      "path": "计算机技术与科学/项目/ERP项目/华夏ERP/config/PluginConfiguration.md"
+    },
+    {
+      "basename": "AutoPluginApplication",
+      "path": "计算机技术与科学/项目/ERP项目/华夏ERP/config/AutoPluginApplication.md"
+    },
+    {
+      "basename": "华夏ERP简介",
+      "path": "计算机技术与科学/项目/ERP项目/华夏ERP/华夏ERP简介.md"
+    },
+    {
+      "basename": "个人公司",
+      "path": "知识库/个人提升/把自己当成公司来经营/个人公司.md"
+    },
+    {
+      "basename": "Spring MVC 理解",
+      "path": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md"
+    },
+    {
+      "basename": "MVC思维导图",
+      "path": "计算机技术与科学/Java/框架/Spring MVC/MVC思维导图.md"
+    },
+    {
+      "basename": "Pasted image 20220905092158",
+      "path": "Pasted image 20220905092158.png"
+    },
+    {
+      "basename": "视力损害",
+      "path": "知识库/生活/健康/视力损害/视力损害.md"
+    },
+    {
       "basename": "spring事务传播行为",
       "path": "计算机技术与科学/Java/框架/spring/spring事务传播行为.md"
     },
@@ -35,10 +83,6 @@
     {
       "basename": "第一章 数据结构概论",
       "path": "计算机技术与科学/数据结构/第一章 数据结构概论.md"
-    },
-    {
-      "basename": "git使用",
-      "path": "计算机技术与科学/git/git使用.md"
     },
     {
       "basename": "问题",

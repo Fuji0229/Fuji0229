@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6b48bcab8245fb42",
+        "id": "0da125e7f0d195a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机技术与科学/Java/框架/spring/spring事务传播行为.md",
+            "file": "计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -30,8 +30,12 @@
             "id": "39cfa036a99a855c",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -56,12 +60,21 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "a0a5a71cd594a49f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 390
   },
   "right": {
     "id": "64cd576c686a09cb",
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机技术与科学/Java/框架/spring/spring事务传播行为.md",
+                "file": "计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +163,27 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "0183ded311c1ef13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md"
+              }
+            }
+          },
+          {
+            "id": "399dec02894151d2",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "8dba74c4048b38bb",
@@ -168,20 +201,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.33334350585938,
-    "collapsed": true
+    "width": 254.33334350585938
   },
-  "active": "6b48bcab8245fb42",
+  "active": "a0a5a71cd594a49f",
   "lastOpenFiles": [
-    "计算机技术与科学/Java/框架/spring/spring事务传播行为.md",
-    "计算机技术与科学/Java/框架/spring/未命名.md",
-    "计算机技术与科学/Java/代码/代码优化/代码优化.md",
-    "计算机技术与科学/Java/面试题/SQL调优.md",
-    "README.md",
-    "2022-06-29.md",
-    "Fuji0229/知识库/思维/未命名.md",
-    "Fuji0229/计算机技术与科学/Java/面试题/设计模式.md",
-    "Fuji0229/计算机技术与科学/Java/面试题/Spring面试题.md",
-    "Fuji0229/计算机技术与科学/Java/面试题/SQL调优.md"
+    "计算机技术与科学/git/git使用.md",
+    "计算机技术与科学/git/git提交至github.md",
+    "计算机技术与科学/项目/ERP项目/华夏ERP/config/Swagger2Config.md",
+    "计算机技术与科学/项目/ERP项目/华夏ERP/config/PluginConfiguration.md",
+    "计算机技术与科学/项目/ERP项目/华夏ERP/config/AutoPluginApplication.md",
+    "计算机技术与科学/项目/ERP项目/华夏ERP/华夏ERP简介.md",
+    "知识库/个人提升/把自己当成公司来经营/个人公司.md",
+    "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
+    "计算机技术与科学/Java/框架/Spring MVC/MVC思维导图.md",
+    "Pasted image 20220905092158.png"
   ]
 }

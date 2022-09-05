@@ -343,19 +343,79 @@
       "size": 21,
       "tags": 0,
       "links": 0
+    },
+    "Day Planners/Day Planner-20220903.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220904.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "知识库/生活/健康/视力损害/视力损害.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/Day Planner-20220905.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md": {
+      "size": 3786,
+      "tags": 0,
+      "links": 2
+    },
+    "计算机技术与科学/Java/框架/Spring MVC/MVC思维导图.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "知识库/个人提升/把自己当成公司来经营/个人公司.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "计算机技术与科学/项目/ERP项目/华夏ERP/华夏ERP简介.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "计算机技术与科学/项目/ERP项目/华夏ERP/config/AutoPluginApplication.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "计算机技术与科学/项目/ERP项目/华夏ERP/config/PluginConfiguration.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "计算机技术与科学/项目/ERP项目/华夏ERP/config/Swagger2Config.md": {
+      "size": 2872,
+      "tags": 0,
+      "links": 1
+    },
+    "计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 60,
-      "Create": 83,
-      "Link": 12,
-      "Expand": 7
+      "Refactor": 87,
+      "Create": 96,
+      "Link": 17,
+      "Expand": 10
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 6,
+      "0": 7,
       "1": 6,
       "2": 2,
       "3": 1,
@@ -363,18 +423,18 @@
       "5": 2,
       "6": 1,
       "7": 1,
-      "8": 3,
-      "9": 15,
-      "10": 32,
-      "11": 1,
+      "8": 7,
+      "9": 16,
+      "10": 34,
+      "11": 14,
       "12": 0,
       "13": 0,
       "14": 3,
-      "15": 1,
-      "16": 4,
-      "17": 23,
-      "18": 0,
-      "19": 25,
+      "15": 10,
+      "16": 8,
+      "17": 30,
+      "18": 1,
+      "19": 31,
       "20": 4,
       "21": 1,
       "22": 17,
@@ -383,13 +443,13 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 48,
+      "Mon": 89,
       "Tue": 9,
       "Wed": 3,
       "Thu": 24,
       "Fri": 27,
       "Sat": 0,
-      "Sun": 51
+      "Sun": 58
     }
   },
   "recentCommits": {
@@ -401,9 +461,25 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/bug处理.md\"> bug处理 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/运维/问题.md\"> 问题 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md\"> Spring MVC 理解 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md\"> Spring MVC 理解 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/Swagger2Config.md\"> Swagger2Config </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"知识库/个人提升/把自己当成公司来经营/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/未命名思维导图.md\"> 未命名思维导图 </a>",
+        "<a class=\"internal-link\" href=\"未命名思维导图.md\"> 未命名思维导图 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220905.md\"> Day Planner-20220905 </a>",
+        "<a class=\"internal-link\" href=\"知识库/生活/健康/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220904.md\"> Day Planner-20220904 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220903.md\"> Day Planner-20220903 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220714.md\"> Day Planner-20220714 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220701.md\"> Day Planner-20220701 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring Boot 自动装配原理.md\"> Spring Boot 自动装配原理 </a>",
@@ -441,22 +517,18 @@
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/未命名思维导图.md\"> 未命名思维导图 </a>",
         "<a class=\"internal-link\" href=\"未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"编程/工作/未命名思维导图.md\"> 未命名思维导图 </a>",
-        "<a class=\"internal-link\" href=\"编程/工作/集成部署/未命名思维导图.md\"> 未命名思维导图 </a>",
-        "<a class=\"internal-link\" href=\"编程/工作/集成部署/未命名思维导图.md\"> 未命名思维导图 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220221.md\"> Day Planner-20220221 </a>",
-        "<a class=\"internal-link\" href=\"编程/未命名/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"未命名 1.md\"> 未命名 1 </a>",
-        "<a class=\"internal-link\" href=\"编程/数据结构/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220222.md\"> Day Planner-20220222 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220223.md\"> Day Planner-20220223 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220224.md\"> Day Planner-20220224 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220225.md\"> Day Planner-20220225 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220226.md\"> Day Planner-20220226 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220227.md\"> Day Planner-20220227 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/学习/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/学习/未命名.md\"> 未命名 </a>"
+        "<a class=\"internal-link\" href=\"编程/工作/集成部署/未命名思维导图.md\"> 未命名思维导图 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md\"> TenantConfig </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/config/Swagger2Config.md\"> Swagger2Config </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/config/PluginConfiguration.md\"> PluginConfiguration </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/config/AutoPluginApplication.md\"> AutoPluginApplication </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/TenantConfig.md\"> TenantConfig </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/Swagger2Config.md\"> Swagger2Config </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/PluginConfiguration.md\"> PluginConfiguration </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/AutoPluginApplication.md\"> AutoPluginApplication </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/config包/AutoPluginApplication.md\"> AutoPluginApplication </a>",
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/基本逻辑.md\"> 基本逻辑 </a>",
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/基本逻辑.md\"> 基本逻辑 </a>",
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/部署逻辑.md\"> 部署逻辑 </a>",
@@ -490,7 +562,15 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/devops/问题.md\"> 问题 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/运维/问题.md\"> 问题 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/git/git使用.md\"> git使用 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/JVM/JDK源码级别彻剖析JVM类加载机制.md\"> JDK源码级别彻剖析JVM类加载机制 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/JVM/JDK源码级别彻剖析JVM类加载机制.md\"> JDK源码级别彻剖析JVM类加载机制 </a>",
+        "<a class=\"internal-link\" href=\"知识库/生活/健康/视力.md\"> 视力 </a>",
+        "<a class=\"internal-link\" href=\"知识库/生活/健康/视力/视力.md\"> 视力 </a>",
+        "<a class=\"internal-link\" href=\"知识库/生活/健康/视力/视力损害.md\"> 视力损害 </a>",
+        "<a class=\"internal-link\" href=\"知识库/生活/健康/视力损害/视力损害.md\"> 视力损害 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md\"> Spring MVC 理解 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/MVC思维导图.md\"> MVC思维导图 </a>",
+        "<a class=\"internal-link\" href=\"知识库/个人提升/把自己当成公司来经营/个人定位.md\"> 个人定位 </a>",
+        "<a class=\"internal-link\" href=\"知识库/个人提升/把自己当成公司来经营/个人公司.md\"> 个人公司 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"README.md\"> README </a>"
@@ -523,7 +603,8 @@
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220228.md\"> Day Planner-20220228 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220301.md\"> Day Planner-20220301 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220302.md\"> Day Planner-20220302 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220305.md\"> Day Planner-20220305 </a>"
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220305.md\"> Day Planner-20220305 </a>",
+        "<a class=\"internal-link\" href=\"未命名思维导图.md\"> 未命名思维导图 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"知识库/生活/规律/最佳作息表.md\"> 最佳作息表 </a>",
@@ -536,7 +617,12 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/快捷键.md\"> 快捷键 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/快捷键.md\"> 快捷键 </a>",
-        "<a class=\"internal-link\" href=\"知识库/思维/思维方式/思维导图模板.md\"> 思维导图模板 </a>"
+        "<a class=\"internal-link\" href=\"知识库/思维/思维方式/思维导图模板.md\"> 思维导图模板 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md\"> Spring MVC 理解 </a>",
+        "<a class=\"internal-link\" href=\"知识库/个人提升/把自己当成公司来经营/个人公司.md\"> 个人公司 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/华夏ERP.md\"> 华夏ERP </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP简介/华夏ERP简介.md\"> 华夏ERP简介 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/Swagger2Config.md\"> Swagger2Config </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

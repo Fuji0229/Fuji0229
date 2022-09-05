@@ -1,9 +1,9 @@
 {
-  "translucency": true,
-  "cssTheme": "Yin and Yang",
+  "translucency": false,
+  "cssTheme": "Sanctum",
   "textFontFamily": "楷体",
-  "theme": "system",
-  "baseFontSize": 19,
+  "theme": "moonstone",
+  "baseFontSize": 21,
   "interfaceFontFamily": "楷体",
   "monospaceFontFamily": "楷体"
 }
