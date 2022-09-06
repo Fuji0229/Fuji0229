@@ -3,7 +3,7 @@
   "defaultViewMode": "source",
   "showFrontmatter": true,
   "spellcheck": false,
-  "vimMode": false,
+  "vimMode": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Fuji0229",
