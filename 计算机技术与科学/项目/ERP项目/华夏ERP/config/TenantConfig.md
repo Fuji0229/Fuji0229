@@ -41,4 +41,3 @@ from `user` </select>
 使用PaginationInterceptor 作为分页插件
 
 在编写mapper.xml中的SQL语句的时候, 语句末尾不能使用 ; 结尾，因为做分页时，会在编写的SQL语句后面拼接Limit语句，导致出现SQL语法错误(SQLSyntaxErrorException)。如下：
-2.

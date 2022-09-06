@@ -403,13 +403,28 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "Day Planners/Day Planner-20220906.md": {
+      "size": 21,
+      "tags": 0,
+      "links": 0
+    },
+    "计算机技术与科学/Java/框架/MyBatis Plus/MyBatis Plus.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 1
+    },
+    "计算机技术与科学/Java/框架/Mybatis plus/MyBatis Plus.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 87,
-      "Create": 96,
-      "Link": 17,
+      "Refactor": 90,
+      "Create": 99,
+      "Link": 18,
       "Expand": 10
     }
   },
@@ -422,8 +437,8 @@
       "4": 0,
       "5": 2,
       "6": 1,
-      "7": 1,
-      "8": 7,
+      "7": 7,
+      "8": 8,
       "9": 16,
       "10": 34,
       "11": 14,
@@ -444,7 +459,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 89,
-      "Tue": 9,
+      "Tue": 16,
       "Wed": 3,
       "Thu": 24,
       "Fri": 27,
@@ -467,6 +482,9 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/Swagger2Config.md\"> Swagger2Config </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Mybatis plus/MyBatis Plus.md\"> MyBatis Plus </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Mybatis plus/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220906.md\"> Day Planner-20220906 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/未命名.md\"> 未命名 </a>",
@@ -514,12 +532,12 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/工具安装/mysql.md\"> mysql </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220218.md\"> Day Planner-20220218 </a>",
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"编程/工作/集成部署/未命名思维导图.md\"> 未命名思维导图 </a>",
-        "<a class=\"internal-link\" href=\"未命名.md\"> 未命名 </a>",
-        "<a class=\"internal-link\" href=\"编程/工作/未命名思维导图.md\"> 未命名思维导图 </a>",
         "<a class=\"internal-link\" href=\"编程/工作/集成部署/未命名思维导图.md\"> 未命名思维导图 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/MyBatis Plus/MyBatis Plus.md\"> MyBatis Plus </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Mybatis plus/MyBatis Plus.md\"> MyBatis Plus </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Mybatis plus/Mybatis plus.md\"> Mybatis plus </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md\"> TenantConfig </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/config/Swagger2Config.md\"> Swagger2Config </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/config/PluginConfiguration.md\"> PluginConfiguration </a>",
@@ -567,10 +585,7 @@
         "<a class=\"internal-link\" href=\"知识库/生活/健康/视力/视力.md\"> 视力 </a>",
         "<a class=\"internal-link\" href=\"知识库/生活/健康/视力/视力损害.md\"> 视力损害 </a>",
         "<a class=\"internal-link\" href=\"知识库/生活/健康/视力损害/视力损害.md\"> 视力损害 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md\"> Spring MVC 理解 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/MVC思维导图.md\"> MVC思维导图 </a>",
-        "<a class=\"internal-link\" href=\"知识库/个人提升/把自己当成公司来经营/个人定位.md\"> 个人定位 </a>",
-        "<a class=\"internal-link\" href=\"知识库/个人提升/把自己当成公司来经营/个人公司.md\"> 个人公司 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md\"> Spring MVC 理解 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"README.md\"> README </a>"
@@ -622,7 +637,8 @@
         "<a class=\"internal-link\" href=\"知识库/个人提升/把自己当成公司来经营/个人公司.md\"> 个人公司 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/华夏ERP.md\"> 华夏ERP </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP简介/华夏ERP简介.md\"> 华夏ERP简介 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/Swagger2Config.md\"> Swagger2Config </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/项目/ERP项目/华夏ERP/AutoPluginApplication/Swagger2Config.md\"> Swagger2Config </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/MyBatis Plus/MyBatis Plus.md\"> MyBatis Plus </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
