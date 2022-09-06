@@ -10,24 +10,10 @@
           "type": "markdown",
           "state": {
             "file": "计算机技术与科学/git/git flow.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "group": "1598ef2d4802bb31"
-      },
-      {
-        "id": "dea31800778ad75a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "计算机技术与科学/git/git flow.md",
             "mode": "preview",
             "source": true
           }
-        },
-        "group": "1598ef2d4802bb31"
+        }
       }
     ],
     "direction": "vertical"
@@ -217,7 +203,7 @@
     "direction": "horizontal",
     "width": 254.33334350585938
   },
-  "active": "dea31800778ad75a",
+  "active": "0da125e7f0d195a2",
   "lastOpenFiles": [
     "计算机技术与科学/git/git使用.md",
     "计算机技术与科学/Java/框架/MyBatis Plus/MyBatis Plus.md",
