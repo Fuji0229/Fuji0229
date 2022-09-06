@@ -53,5 +53,5 @@
     "KeyC": "c",
     "Comma": ","
   },
-  "supportJsCommands": true
+  "supportJsCommands": false
 }
