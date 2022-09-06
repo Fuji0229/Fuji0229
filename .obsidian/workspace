@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机技术与科学/Java/java基础/Java核心技术卷①/3.2 注释.md",
+            "file": "计算机技术与科学/Java/框架/spring-boot/Spring Boot 优化小技巧.md",
             "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "99afd8c25c46f190"
+      },
+      {
+        "id": "0e8ec8bec997a7c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "计算机技术与科学/Java/框架/spring-boot/Spring Boot 优化小技巧.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "99afd8c25c46f190"
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机技术与科学/Java/java基础/Java核心技术卷①/3.2 注释.md",
+                "file": "计算机技术与科学/Java/框架/spring-boot/Spring Boot 优化小技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机技术与科学/Java/java基础/Java核心技术卷①/3.2 注释.md",
+                "file": "计算机技术与科学/Java/框架/spring-boot/Spring Boot 优化小技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机技术与科学/Java/java基础/Java核心技术卷①/3.2 注释.md"
+                "file": "计算机技术与科学/Java/框架/spring-boot/Spring Boot 优化小技巧.md"
               }
             }
           },
@@ -203,8 +217,9 @@
     "direction": "horizontal",
     "width": 254.33334350585938
   },
-  "active": "a0a5a71cd594a49f",
+  "active": "0e8ec8bec997a7c5",
   "lastOpenFiles": [
+    "计算机技术与科学/Java/java基础/Java核心技术卷①/3.2 注释.md",
     "计算机技术与科学/Java/java基础/Java核心技术卷①/3.1 Java的基本程序设计结构.md",
     "计算机技术与科学/Java/java基础/未命名.md",
     "计算机技术与科学/git/git flow.md",
@@ -213,7 +228,6 @@
     "计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md",
     "计算机技术与科学/git/git提交至github.md",
     "计算机技术与科学/项目/ERP项目/华夏ERP/config/Swagger2Config.md",
-    "计算机技术与科学/项目/ERP项目/华夏ERP/config/PluginConfiguration.md",
-    "计算机技术与科学/项目/ERP项目/华夏ERP/config/AutoPluginApplication.md"
+    "计算机技术与科学/项目/ERP项目/华夏ERP/config/PluginConfiguration.md"
   ]
 }
