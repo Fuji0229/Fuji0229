@@ -37,5 +37,6 @@
   "better-word-count",
   "obsidian-to-anki-plugin",
   "copy-publish-url",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-vimrc-support"
 ]
