@@ -1,4 +1,4 @@
-1.定义配置文件
+# 1.定义配置文件
 统一管理变量，使用yml文件
 ![[Pasted image 20220906152201.png]]
 用 @ConfigurationProperties 代替 @Value
@@ -38,7 +38,7 @@ public class PropertyController {
     }  
 }
 ```
-2.用@RequiredArgsConstructor代替@Autowired
+# 2.用@RequiredArgsConstructor代替@Autowired
 spring注入一个Bean有三种方式
 + set注入
 + 构造器注入
@@ -110,3 +110,5 @@ public class Car {
 Spring的DI设计模式，是将依赖关系的创建和类本身分离，将依赖关系创建的职责交给类注入器做，允许程序设计的松耦合，并遵循单一职责原则和依赖反转职责。因此使用@Autowire自动装配的字段在Spring容器之外无法使用（不包含通过反射设置对象的方式）
 
 构造注入可以在受影响的类中轻松的表明对象的依赖关系，但是@Autowire对象实际对外隐藏了这些关系。需要在对应的类中查看代码才能明确依赖。
+
+# 3. 代码模块化
