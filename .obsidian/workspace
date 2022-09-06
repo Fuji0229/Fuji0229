@@ -147,38 +147,6 @@
             }
           },
           {
-            "id": "da2dc8d2274fc0f2",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "5905db6c5e5fcef2",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "7f43819daf62b8dd",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a3a4d6a5b9684c6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "0183ded311c1ef13",
             "type": "leaf",
             "state": {
@@ -195,9 +163,41 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "b2db17a4a853b709",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "f22a86f2f7cb1e98",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "78ac76de3a7f129c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b4cd1a8bdd8747a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       },
       {
         "id": "8dba74c4048b38bb",
@@ -217,7 +217,7 @@
     "direction": "horizontal",
     "width": 254.33334350585938
   },
-  "active": "0e8ec8bec997a7c5",
+  "active": "4b4cd1a8bdd8747a",
   "lastOpenFiles": [
     "计算机技术与科学/Java/java基础/Java核心技术卷①/3.2 注释.md",
     "计算机技术与科学/Java/java基础/Java核心技术卷①/3.1 Java的基本程序设计结构.md",
