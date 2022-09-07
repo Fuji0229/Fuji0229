@@ -4,6 +4,6 @@
   "enableContext": true,
   "enableOpenUrl": true,
   "enableGithub": true,
-  "remoteUrl": "https://oauth2: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@github.com/Fuji0229/Fuji0229.git/",
+  "remoteUrl": "git@oauth2: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@github.com/Fuji0229/Fuji0229.git/",
   "branch": "main"
 }
