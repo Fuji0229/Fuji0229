@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390
+    "width": 390,
+    "collapsed": true
   },
   "right": {
     "id": "64cd576c686a09cb",
@@ -197,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       },
       {
         "id": "8dba74c4048b38bb",
@@ -215,9 +216,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.33334350585938
+    "width": 100,
+    "collapsed": true
   },
-  "active": "0da125e7f0d195a2",
+  "active": "4b4cd1a8bdd8747a",
   "lastOpenFiles": [
     "计算机技术与科学/工作/Bug排查/阿里bug排查.md",
     "计算机技术与科学/工作/Bug排查/bug处理.md",
