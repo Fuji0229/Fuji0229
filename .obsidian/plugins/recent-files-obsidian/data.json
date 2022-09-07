@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "阿里bug排查",
+      "path": "计算机技术与科学/工作/Bug排查/阿里bug排查.md"
+    },
+    {
+      "basename": "bug处理",
+      "path": "计算机技术与科学/工作/Bug排查/bug处理.md"
+    },
+    {
       "basename": "Spring Boot 优化小技巧",
       "path": "计算机技术与科学/Java/框架/spring-boot/Spring Boot 优化小技巧.md"
     },
@@ -111,10 +119,6 @@
     {
       "basename": "问题",
       "path": "计算机技术与科学/工作/运维/问题.md"
-    },
-    {
-      "basename": "bug处理",
-      "path": "计算机技术与科学/工作/bug处理.md"
     },
     {
       "basename": "Markdown语法",
