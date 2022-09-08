@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0da125e7f0d195a2",
+        "id": "d440a6cfd1c46dff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机技术与科学/Java/代码/代码分类/时间处理/时间处理.md",
+            "file": "附件/附件地址.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
-        },
-        "group": "99afd8c25c46f190"
-      },
-      {
-        "id": "0e8ec8bec997a7c5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "计算机技术与科学/Java/代码/代码分类/时间处理/时间处理.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "99afd8c25c46f190"
+        }
       }
     ],
     "direction": "vertical"
@@ -48,7 +34,7 @@
               "state": {
                 "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -88,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390,
-    "collapsed": true
+    "width": 390
   },
   "right": {
     "id": "64cd576c686a09cb",
@@ -105,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机技术与科学/Java/代码/代码分类/时间处理/时间处理.md",
+                "file": "附件/附件地址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机技术与科学/Java/代码/代码分类/时间处理/时间处理.md",
+                "file": "附件/附件地址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机技术与科学/Java/代码/代码分类/时间处理/时间处理.md"
+                "file": "附件/附件地址.md"
               }
             }
           },
@@ -219,17 +204,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "4b4cd1a8bdd8747a",
+  "active": "d440a6cfd1c46dff",
   "lastOpenFiles": [
-    "计算机技术与科学/工作/Bug排查/阿里bug排查.md",
-    "计算机技术与科学/工作/Bug排查/bug处理.md",
-    "计算机技术与科学/Java/框架/spring-boot/Spring Boot 优化小技巧.md",
-    "计算机技术与科学/Java/java基础/Java核心技术卷①/3.2 注释.md",
-    "计算机技术与科学/Java/java基础/Java核心技术卷①/3.1 Java的基本程序设计结构.md",
-    "计算机技术与科学/Java/java基础/未命名.md",
-    "计算机技术与科学/git/git flow.md",
-    "计算机技术与科学/git/git使用.md",
-    "计算机技术与科学/Java/框架/MyBatis Plus/MyBatis Plus.md",
-    "计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md"
+    "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
+    "计算机技术与科学/工具/maven.md",
+    "计算机技术与科学/工作/集成部署/部署逻辑.md",
+    "计算机技术与科学/git/git提交至github.md",
+    "计算机技术与科学/Java/面试题/SQL调优.md",
+    "计算机技术与科学/Java/面试题/Spring面试题.md",
+    "计算机技术与科学/Java/面试题/设计模式.md",
+    "计算机技术与科学/Java/框架/spring-boot/Spring Boot 自动装配原理.md",
+    "计算机技术与科学/Java/框架/spring-boot/SpingBoot常用注解.md",
+    "计算机技术与科学/Java/框架/spring-boot/Spring Boot 优化小技巧.md"
   ]
 }
