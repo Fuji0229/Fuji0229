@@ -483,12 +483,17 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "知识库/生活/代码之外的生存指南/未命名.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 103,
-      "Create": 112,
+      "Create": 113,
       "Link": 33,
       "Expand": 22
     }
@@ -514,7 +519,7 @@
       "16": 12,
       "17": 30,
       "18": 1,
-      "19": 38,
+      "19": 39,
       "20": 7,
       "21": 3,
       "22": 17,
@@ -529,7 +534,7 @@
       "Thu": 35,
       "Fri": 27,
       "Sat": 0,
-      "Sun": 64
+      "Sun": 65
     }
   },
   "recentCommits": {
@@ -559,6 +564,7 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/插件.md\"> 插件 </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"知识库/生活/代码之外的生存指南/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/详细设计/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220910.md\"> Day Planner-20220910 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思考 快与慢/未命名.md\"> 未命名 </a>",
@@ -608,8 +614,7 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/JVM/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220513.md\"> Day Planner-20220513 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220512.md\"> Day Planner-20220512 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220511.md\"> Day Planner-20220511 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220424.md\"> Day Planner-20220424 </a>"
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220511.md\"> Day Planner-20220511 </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/详细设计/详细设计.md\"> 详细设计 </a>",
