@@ -508,13 +508,18 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/用数学思想指导你构建完备的认知体系.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 110,
-      "Create": 117,
-      "Link": 34,
+      "Refactor": 114,
+      "Create": 118,
+      "Link": 36,
       "Expand": 24
     }
   },
@@ -535,7 +540,7 @@
       "12": 7,
       "13": 4,
       "14": 13,
-      "15": 23,
+      "15": 30,
       "16": 12,
       "17": 30,
       "18": 1,
@@ -554,7 +559,7 @@
       "Thu": 35,
       "Fri": 27,
       "Sat": 0,
-      "Sun": 79
+      "Sun": 86
     }
   },
   "recentCommits": {
@@ -586,6 +591,7 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/未命名/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/书籍/代码整洁之道/第一章 整洁代码/未命名.md\"> 未命名 </a>",
@@ -635,10 +641,13 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/工具/maven.md\"> maven </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/书籍推荐/Java书籍推荐.md\"> Java书籍推荐 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220630.md\"> Day Planner-20220630 </a>",
-        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220529.md\"> Day Planner-20220529 </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
+        "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220529.md\"> Day Planner-20220529 </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/用数学思想指导你构建完备的认知体系.md\"> 用数学思想指导你构建完备的认知体系 </a>",
+        "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/用数学思想指导你构建完备的知识体系.md\"> 用数学思想指导你构建完备的知识体系 </a>",
+        "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/用数学思想指导你构建.md\"> 用数学思想指导你构建 </a>",
+        "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/用数学思想.md\"> 用数学思想 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/如何成为一针见血 看透重点的思维黑客.md\"> 如何成为一针见血 看透重点的思维黑客 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/如何成为一针见血.md\"> 如何成为一针见血 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/未命名.md\"> 未命名 </a>",
@@ -685,11 +694,7 @@
         "<a class=\"internal-link\" href=\"计算机/Java/JVM/深入理解JVM.md\"> 深入理解JVM </a>",
         "<a class=\"internal-link\" href=\"计算机/工作/集成部署/部署逻辑.md\"> 部署逻辑 </a>",
         "<a class=\"internal-link\" href=\"计算机/网络/网络是怎样连接的/网络是怎样连接的.md\"> 网络是怎样连接的 </a>",
-        "<a class=\"internal-link\" href=\"计算机/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/JVM/深入理解JVM.md\"> 深入理解JVM </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/集成部署/部署逻辑.md\"> 部署逻辑 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/网络/网络是怎样连接的/网络是怎样连接的.md\"> 网络是怎样连接的 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>"
+        "<a class=\"internal-link\" href=\"计算机/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"README.md\"> README </a>"
@@ -758,7 +763,9 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/插件.md\"> 插件 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/插件.md\"> 插件 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/插件.md\"> 插件 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>",
+        "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/用数学思想指导你构建完备的认知体系.md\"> 用数学思想指导你构建完备的认知体系 </a>",
+        "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/用数学思想指导你构建完备的认知体系.md\"> 用数学思想指导你构建完备的认知体系 </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
