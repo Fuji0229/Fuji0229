@@ -21,3 +21,36 @@ public class TestApplicationContextInitializer implements ApplicationContext
 	-   在启动类中用`springApplication.addInitializers(new TestApplicationContextInitializer())`语句加入
 	-   配置文件配置`context.initializer.classes=com.example.demo.TestApplicationContextInitializer`
 	-   Spring SPI扩展，在spring.factories中加入`org.springframework.context.ApplicationContextInitializer=com.example.demo.TestApplicationContextInitializer`
+4.BeanDefinitionRegisterPostProcessor
+org.springframework.beans.factory.support.BeanDefinitionRegistryPostProcessor
+接口在读取BeanDefinition后执行，提供一个补充的扩展点。
+	使用场景：可以加载classpath之外的bean
+扩展方式：
+```java
+public class TestBeanDefinitionRegistryPostProcessor implements BeanDefinitionRegistryPostProcessor {  
+    @Override  
+  public void postProcessBeanDefinitionRegistry(BeanDefinitionRegistry registry) throws BeansException {  
+        System.out.println("[BeanDefinitionRegistryPostProcessor] postProcessBeanDefinitionRegistry");  
+    }  
+  
+    @Override  
+    public void postProcessBeanFactory(ConfigurableListableBeanFactory beanFactory) throws BeansException {  
+        System.out.println("[BeanDefinitionRegistryPostProcessor] postProcessBeanFactory");  
+    }  
+}
+```
+5.BeanFactoryPostProcessor
+org.springframework.beans.factory.config.BeanFactoryPostProcessor
+BeanFactory的扩展接口，调用时机在spring读取BeanDefinition信息之后，实例化Bean之前。
+场景：
+	修改已经注册的BeanDefinition信息。
+扩展方式：
+```java
+public class TestBeanFactoryPostProcessor implements BeanFactoryPostProcessor {  
+    @Override  
+    public void postProcessBeanFactory(ConfigurableListableBeanFactory beanFactory) throws BeansException {  
+        System.out.println("[BeanFactoryPostProcessor]");  
+    }  
+}
+```
+6.

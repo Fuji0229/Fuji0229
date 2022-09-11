@@ -500,7 +500,7 @@
       "links": 0
     },
     "计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md": {
-      "size": 0,
+      "size": 2843,
       "tags": 0,
       "links": 1
     }
@@ -510,7 +510,7 @@
       "Refactor": 106,
       "Create": 116,
       "Link": 34,
-      "Expand": 22
+      "Expand": 24
     }
   },
   "dailyCommits": {
@@ -529,7 +529,7 @@
       "11": 18,
       "12": 7,
       "13": 4,
-      "14": 8,
+      "14": 10,
       "15": 21,
       "16": 12,
       "17": 30,
@@ -549,7 +549,7 @@
       "Thu": 35,
       "Fri": 27,
       "Sat": 0,
-      "Sun": 72
+      "Sun": 74
     }
   },
   "recentCommits": {
@@ -576,7 +576,9 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/代码/代码分类/时间处理/时间处理.md\"> 时间处理 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/代码/代码分类/时间处理/时间处理.md\"> 时间处理 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/插件.md\"> 插件 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/插件.md\"> 插件 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/插件.md\"> 插件 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/未命名.md\"> 未命名 </a>",
