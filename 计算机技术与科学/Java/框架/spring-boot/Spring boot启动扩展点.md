@@ -17,3 +17,7 @@ public class TestApplicationContextInitializer implements ApplicationContext
     }  
 }
 ```
+三种实现方式：
+	-   在启动类中用`springApplication.addInitializers(new TestApplicationContextInitializer())`语句加入
+	-   配置文件配置`context.initializer.classes=com.example.demo.TestApplicationContextInitializer`
+	-   Spring SPI扩展，在spring.factories中加入`org.springframework.context.ApplicationContextInitializer=com.example.demo.TestApplicationContextInitializer`
