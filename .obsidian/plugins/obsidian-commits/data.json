@@ -523,12 +523,17 @@
       "size": 21,
       "tags": 0,
       "links": 0
+    },
+    "计算机技术与科学/工作/笔记/接口设计/接口设计.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 117,
-      "Create": 120,
+      "Refactor": 118,
+      "Create": 121,
       "Link": 37,
       "Expand": 24
     }
@@ -545,7 +550,7 @@
       "7": 7,
       "8": 12,
       "9": 16,
-      "10": 43,
+      "10": 45,
       "11": 18,
       "12": 7,
       "13": 4,
@@ -563,7 +568,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 90,
+      "Mon": 92,
       "Tue": 46,
       "Wed": 9,
       "Thu": 35,
@@ -601,6 +606,7 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"Day Planners/Day Planner-20220912.md\"> Day Planner-20220912 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/onemall/分层/未命名.md\"> 未命名 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/未命名.md\"> 未命名 </a>",
@@ -650,10 +656,10 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/面试题/Spring面试题.md\"> Spring面试题 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思维方式/思维导图模板.md\"> 思维导图模板 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工具/mysql.md\"> mysql </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/工具/maven.md\"> maven </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/书籍推荐/Java书籍推荐.md\"> Java书籍推荐 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工具/maven.md\"> maven </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/onemall/分层/应用分层.md\"> 应用分层 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/用数学思想指导你构建完备的认知体系.md\"> 用数学思想指导你构建完备的认知体系 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/如何成为一针见血 看透重点的思维黑客.md\"> 如何成为一针见血 看透重点的思维黑客 </a>",
@@ -703,8 +709,7 @@
         "<a class=\"internal-link\" href=\"编程/数据结构/数据结构概论/数据结构第.md\"> 数据结构第 </a>",
         "<a class=\"internal-link\" href=\"编程/数据结构/第一章 数据结构概论/数据结构第.md\"> 数据结构第 </a>",
         "<a class=\"internal-link\" href=\"编程/数据结构/第一章 数据结构概论/数据结构.md\"> 数据结构 </a>",
-        "<a class=\"internal-link\" href=\"编程/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>",
-        "<a class=\"internal-link\" href=\"计算机/Java/JVM/深入理解JVM.md\"> 深入理解JVM </a>"
+        "<a class=\"internal-link\" href=\"编程/数据结构/第一章 数据结构概论.md\"> 第一章 数据结构概论 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"README.md\"> README </a>"
