@@ -525,7 +525,7 @@
       "links": 0
     },
     "计算机技术与科学/工作/笔记/接口设计/接口设计.md": {
-      "size": 4644,
+      "size": 5403,
       "tags": 0,
       "links": 6
     },
@@ -540,7 +540,7 @@
       "Refactor": 118,
       "Create": 122,
       "Link": 41,
-      "Expand": 28
+      "Expand": 29
     }
   },
   "dailyCommits": {
@@ -554,7 +554,7 @@
       "6": 1,
       "7": 7,
       "8": 18,
-      "9": 19,
+      "9": 20,
       "10": 45,
       "11": 18,
       "12": 7,
@@ -574,7 +574,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 92,
-      "Tue": 55,
+      "Tue": 56,
       "Wed": 9,
       "Thu": 35,
       "Fri": 27,
@@ -609,6 +609,7 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/插件.md\"> 插件 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
