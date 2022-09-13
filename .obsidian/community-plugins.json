@@ -4,7 +4,6 @@
   "calendar",
   "obsidian-mind-map",
   "obsidian-pangu",
-  "obsidian-admonition",
   "obsidian-checklist-plugin",
   "obsidian-citation-plugin",
   "obsidian-commits",
@@ -37,6 +36,5 @@
   "better-word-count",
   "obsidian-to-anki-plugin",
   "copy-publish-url",
-  "obsidian-annotator",
   "obsidian-vimrc-support"
 ]
