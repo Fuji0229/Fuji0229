@@ -525,9 +525,9 @@
       "links": 0
     },
     "计算机技术与科学/工作/笔记/接口设计/接口设计.md": {
-      "size": 2190,
+      "size": 3837,
       "tags": 0,
-      "links": 2
+      "links": 3
     },
     "Day Planners/Day Planner-20220913.md": {
       "size": 21,
@@ -539,8 +539,8 @@
     "/": {
       "Refactor": 118,
       "Create": 122,
-      "Link": 38,
-      "Expand": 25
+      "Link": 39,
+      "Expand": 27
     }
   },
   "dailyCommits": {
@@ -553,7 +553,7 @@
       "5": 2,
       "6": 1,
       "7": 7,
-      "8": 15,
+      "8": 18,
       "9": 16,
       "10": 45,
       "11": 18,
@@ -574,7 +574,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 92,
-      "Tue": 49,
+      "Tue": 52,
       "Wed": 9,
       "Thu": 35,
       "Fri": 27,
@@ -609,6 +609,8 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/IDEA/插件.md\"> 插件 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/Java/框架/spring-boot/Spring boot启动扩展点.md\"> Spring boot启动扩展点 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>"
       ],
       "Created": [
@@ -788,6 +790,7 @@
         "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/用数学思想指导你构建完备的认知体系.md\"> 用数学思想指导你构建完备的认知体系 </a>",
         "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册/第一章 思维黑客的必备技能/用数学思想指导你构建完备的认知体系.md\"> 用数学思想指导你构建完备的认知体系 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/项目/onemall/分层/应用分层.md\"> 应用分层 </a>",
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>"
       ],
       "Removed Tags from": [],
