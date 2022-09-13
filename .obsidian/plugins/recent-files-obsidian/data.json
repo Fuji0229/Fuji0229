@@ -191,14 +191,6 @@
     {
       "basename": "JDK源码级别彻剖析JVM类加载机制",
       "path": "计算机技术与科学/Java/JVM/JDK源码级别彻剖析JVM类加载机制.md"
-    },
-    {
-      "basename": "深入理解JVM",
-      "path": "计算机技术与科学/Java/JVM/深入理解JVM.md"
-    },
-    {
-      "basename": "线性表",
-      "path": "计算机技术与科学/数据结构/第二章/线性表.md"
     }
   ],
   "omittedPaths": [],
