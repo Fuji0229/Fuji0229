@@ -537,14 +537,14 @@
     "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/构建金字塔型信息接受体系.md": {
       "size": 0,
       "tags": 0,
-      "links": 0
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 120,
       "Create": 123,
-      "Link": 43,
+      "Link": 44,
       "Expand": 35
     }
   },
@@ -567,7 +567,7 @@
       "14": 15,
       "15": 30,
       "16": 12,
-      "17": 33,
+      "17": 34,
       "18": 1,
       "19": 44,
       "20": 7,
@@ -579,7 +579,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 92,
-      "Tue": 67,
+      "Tue": 68,
       "Wed": 9,
       "Thu": 35,
       "Fri": 27,
@@ -808,7 +808,8 @@
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
         "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
-        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>"
+        "<a class=\"internal-link\" href=\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\"> 接口设计 </a>",
+        "<a class=\"internal-link\" href=\"知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/构建金字塔型信息接受体系.md\"> 构建金字塔型信息接受体系 </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
