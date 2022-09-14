@@ -12,13 +12,10 @@
   "note-folder-autorename",
   "note-refactor-obsidian",
   "obsidian-pandoc",
-  "privacy-glasses",
   "quick-explorer",
   "recent-files-obsidian",
   "remember-cursor-position",
-  "obsidian-rollover-daily-todos",
   "slated-obsidian",
-  "obsidian-spaced-repetition",
   "workbench-obsidian",
   "map-of-content",
   "table-editor-obsidian",
@@ -27,5 +24,6 @@
   "better-word-count",
   "obsidian-to-anki-plugin",
   "copy-publish-url",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-focus-mode"
 ]

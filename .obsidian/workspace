@@ -157,17 +157,9 @@
               "type": "juggl_style",
               "state": {}
             }
-          },
-          {
-            "id": "4b4cd1a8bdd8747a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "8dba74c4048b38bb",
