@@ -1,9 +1,9 @@
 {
-  "translucency": false,
-  "cssTheme": "Sanctum",
-  "textFontFamily": "楷体",
-  "theme": "moonstone",
-  "baseFontSize": 19,
-  "interfaceFontFamily": "楷体",
-  "monospaceFontFamily": "楷体"
+  "translucency": true,
+  "cssTheme": "Obsidianite",
+  "textFontFamily": "楷体,Cambria Math",
+  "theme": "obsidian",
+  "baseFontSize": 21,
+  "interfaceFontFamily": "楷体,Cambria Math",
+  "monospaceFontFamily": "楷体,Cambria Math"
 }
