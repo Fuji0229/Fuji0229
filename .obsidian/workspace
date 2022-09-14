@@ -6,9 +6,25 @@
       {
         "id": "7ae6251b5fde2f3a",
         "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "7ae6251b5fde2f3a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"知识库/思维/分析和解决问题-知乎/如何解决问题.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "知识库/思维/分析和解决问题-知乎/如何解决问题.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -25,6 +41,10 @@
           {
             "id": "39cfa036a99a855c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -37,6 +57,10 @@
           {
             "id": "c45fef973b3a24ee",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
@@ -52,6 +76,10 @@
           {
             "id": "f7e44ebe2e76ae3c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "recent-files",
               "state": {}
@@ -60,6 +88,10 @@
           {
             "id": "a0a5a71cd594a49f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -83,10 +115,14 @@
           {
             "id": "5d48d89c1e4e16ff",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
+                "file": "知识库/思维/分析和解决问题-知乎/如何解决问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +136,14 @@
           {
             "id": "6fa72ec3ace11799",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
+                "file": "知识库/思维/分析和解决问题-知乎/如何解决问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +152,10 @@
           {
             "id": "a22b61c62dd5a279",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -123,16 +167,24 @@
           {
             "id": "0183ded311c1ef13",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md"
+                "file": "知识库/思维/分析和解决问题-知乎/如何解决问题.md"
               }
             }
           },
           {
             "id": "399dec02894151d2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "side-panel-control-view",
               "state": {}
@@ -141,6 +193,10 @@
           {
             "id": "37760e6e77ca7a61",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "juggl_nodes",
               "state": {}
@@ -149,6 +205,10 @@
           {
             "id": "5e1bee0fbaa99885",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "juggl_style",
               "state": {}
@@ -164,6 +224,10 @@
           {
             "id": "7be99976460dc167",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "map-of-content",
               "state": {}
@@ -177,8 +241,8 @@
   },
   "active": "7ae6251b5fde2f3a",
   "lastOpenFiles": [
-    "todolist/未命名.md",
     "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
+    "todolist/未命名.md",
     "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/构建金字塔型信息接受体系.md",
     "计算机技术与科学/IDEA/插件.md",
     "todolist/2022-09-14 todolist.md",
