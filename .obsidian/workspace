@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae6251b5fde2f3a",
+        "id": "af6d1f1e0b1a4ac9",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "7ae6251b5fde2f3a",
+              "leaf": "af6d1f1e0b1a4ac9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"知识库/知名up主 博主等/微博/未命名/warfalcon/孤独和从众.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7ae6251b5fde2f3a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"知识库/思维/分析和解决问题-知乎/如何解决问题.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":81.9064491016445}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "知识库/知名up主 博主等/微博/未命名/warfalcon/孤独和从众.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/知名up主 博主等/微博/未命名/warfalcon/孤独和从众.md",
+                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/知名up主 博主等/微博/未命名/warfalcon/孤独和从众.md",
+                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/知名up主 博主等/微博/未命名/warfalcon/孤独和从众.md"
+                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md"
               }
             }
           },
@@ -245,8 +234,9 @@
     "direction": "horizontal",
     "width": 151.33334350585938
   },
-  "active": "7ae6251b5fde2f3a",
+  "active": "af6d1f1e0b1a4ac9",
   "lastOpenFiles": [
+    "知识库/知名up主 博主等/微博/未命名/warfalcon/孤独和从众.md",
     "知识库/思维/分析和解决问题-知乎/如何解决问题.md",
     "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
     "todolist/未命名.md",
@@ -255,7 +245,6 @@
     "todolist/2022-09-14 todolist.md",
     "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/超好用的数学思维模型.md",
     "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/像计算机学习，如何深度思考和触类旁通？.md",
-    "Pasted image 20220913144131.png",
-    "Pasted image 20220913173841.png"
+    "Pasted image 20220913144131.png"
   ]
 }
