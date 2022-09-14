@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "最常用的7类Spring注解",
+      "path": "计算机技术与科学/Java/框架/spring/最常用的7类Spring注解.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "计算机技术与科学/Java/框架/spring/未命名.md"
+    },
+    {
       "basename": "Spring MVC 理解",
       "path": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "spring事务传播行为",
       "path": "计算机技术与科学/Java/框架/spring/spring事务传播行为.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "计算机技术与科学/Java/框架/spring/未命名.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
