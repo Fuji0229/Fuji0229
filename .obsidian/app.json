@@ -17,5 +17,6 @@
   "promptDelete": true,
   "livePreview": true,
   "newFileLocation": "current",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "communityPluginSortOrder": "download"
 }

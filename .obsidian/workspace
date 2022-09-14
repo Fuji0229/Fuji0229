@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d440a6cfd1c46dff",
+        "id": "7ae6251b5fde2f3a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "todolist/未命名.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -90,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todolist/未命名.md",
+                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todolist/未命名.md",
+                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todolist/未命名.md"
+                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md"
               }
             }
           },
@@ -141,25 +137,9 @@
               "type": "side-panel-control-view",
               "state": {}
             }
-          },
-          {
-            "id": "f22a86f2f7cb1e98",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "78ac76de3a7f129c",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "8dba74c4048b38bb",
@@ -177,20 +157,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 151.33334350585938
   },
-  "active": "d440a6cfd1c46dff",
+  "active": "7ae6251b5fde2f3a",
   "lastOpenFiles": [
-    "todolist/2022-09-14 todolist.md",
+    "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/构建金字塔型信息接受体系.md",
+    "计算机技术与科学/IDEA/插件.md",
     "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
+    "todolist/未命名.md",
+    "todolist/2022-09-14 todolist.md",
     "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/超好用的数学思维模型.md",
     "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/像计算机学习，如何深度思考和触类旁通？.md",
     "Pasted image 20220913144131.png",
     "Pasted image 20220913173841.png",
-    "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/构建金字塔型信息接受体系.md",
-    "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/用数学思想指导你构建完备的认知体系.md",
-    "计算机技术与科学/工作/笔记/接口设计/接口设计.md",
-    "计算机技术与科学/项目/onemall/分层/应用分层.md"
+    "知识库/思维/思维黑客成长手册 --知乎/第一章 思维黑客的必备技能/用数学思想指导你构建完备的认知体系.md"
   ]
 }
