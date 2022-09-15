@@ -10,3 +10,8 @@ Spring Security提供的场景
 5.跨域支持
 6.全局安全方法
 7.单点登录
+
+Spring Security与单体应用
+资源 
+认证
+授权
