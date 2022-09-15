@@ -60,3 +60,26 @@ public class User {
   
 }
 ```
+## 4.@configuration
+场景：
+	- 用在class上注入bean，作用和xml配置文件一样，表示此bean是一个Spring配置，同时可以在方法上使用@Bean注解初始化定义bean
+```java
+@Configuartion  
+public class SpringCoreConfig {  
+  
+    @Bean  
+    public AdminUser adminUser() {  
+        AdminUser adminUser = new AdminUser();  
+        return adminUser;  
+    }  
+}
+```
+
+## 5.ComponentScan
+一般和@Configuration一起使用，指定Spring扫描注解的package，如果没有指定，默认会扫描配置类所在的package。
+
+## 6.@Lazy
+使用在Spring组件类上，默认的Spring中Bean的依赖一开始就被创建和配，如果想要延迟化创建一个bean，就可以在此类上使用lazy注解，表示此bean只有在第一次使用时才会被创建和初始化，此注解也可使用在@Configuration注解的类上，表示其中所有的类都会被延迟初始化。
+
+## 7.@Value
+注解使用在字段，构造器参数和方法参数上。@Value可以指定属性取值的表达式，支持通过#{}使用SpringEL取值，也支持使用${}将属性来源中properties文件、本地环境变量、系统属性的值注入到bean的属性中，此注解值的注入发生在AutowireAnnotationBeanPostPr
