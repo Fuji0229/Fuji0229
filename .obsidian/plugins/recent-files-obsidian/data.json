@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vim的基础使用",
+      "path": "知识库/工具/vim/vim的基础使用.md"
+    },
+    {
       "basename": "最常用的7类Spring注解",
       "path": "计算机技术与科学/Java/框架/spring/Spring 注解/最常用的7类Spring注解.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MVC思维导图",
       "path": "计算机技术与科学/Java/框架/Spring MVC/MVC思维导图.md"
-    },
-    {
-      "basename": "视力损害",
-      "path": "知识库/生活/健康/视力损害/视力损害.md"
     }
   ],
   "omittedPaths": [],
