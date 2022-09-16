@@ -13,7 +13,19 @@
               "leaf": "af6d1f1e0b1a4ac9",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第二章 用户认证/用户认证.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":40},\"to\":{\"line\":14,\"ch\":40}},\"scroll\":0}"
+            },
+            {
+              "leaf": "af6d1f1e0b1a4ac9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第一章 直面Spring Security.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":160},\"to\":{\"line\":30,\"ch\":160}},\"scroll\":29.01842597689069}"
+            },
+            {
+              "leaf": "af6d1f1e0b1a4ac9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第二章 用户认证/用户认证.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":40},\"to\":{\"line\":14,\"ch\":40}},\"scroll\":15.214375667648659}"
             },
             {
               "leaf": "af6d1f1e0b1a4ac9",
@@ -310,6 +322,7 @@
   "active": "af6d1f1e0b1a4ac9",
   "lastOpenFiles": [
     "计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第一章 直面Spring Security.md",
+    "计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第二章 用户认证/用户认证.md",
     "计算机技术与科学/Java/框架/Spring  Sercurity/未命名.md",
     "计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战.md",
     "知识库/工具/vim/vim的基础使用.md",
@@ -317,7 +330,6 @@
     "计算机技术与科学/Java/框架/spring/未命名.md",
     "计算机技术与科学/Java/框架/spring/spring事务传播行为.md",
     "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
-    "知识库/知名up主 博主等/微博/未命名/warfalcon/孤独和从众.md",
-    "知识库/思维/分析和解决问题-知乎/如何解决问题.md"
+    "知识库/知名up主 博主等/微博/未命名/warfalcon/孤独和从众.md"
   ]
 }
