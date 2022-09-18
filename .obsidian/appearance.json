@@ -1,9 +1,9 @@
 {
-  "translucency": true,
+  "translucency": false,
   "cssTheme": "Obsidianite",
   "textFontFamily": "楷体,Cambria Math",
-  "theme": "obsidian",
-  "baseFontSize": 23,
+  "theme": "moonstone",
+  "baseFontSize": 16,
   "interfaceFontFamily": "楷体,Cambria Math",
   "monospaceFontFamily": "楷体,Cambria Math"
 }
