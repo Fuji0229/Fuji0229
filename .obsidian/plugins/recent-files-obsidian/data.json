@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "XML映射器",
+      "path": "计算机技术与科学/Java/框架/Mybatis/XML映射器/XML映射器.md"
+    },
+    {
       "basename": "需求分析",
       "path": "计算机技术与科学/工作/笔记/需求分析/需求分析.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TenantConfig",
       "path": "计算机技术与科学/项目/ERP项目/华夏ERP/config/TenantConfig.md"
-    },
-    {
-      "basename": "Swagger2Config",
-      "path": "计算机技术与科学/项目/ERP项目/华夏ERP/config/Swagger2Config.md"
     }
   ],
   "omittedPaths": [],
