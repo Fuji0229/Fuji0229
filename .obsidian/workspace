@@ -12,7 +12,7 @@
             {
               "leaf": "af6d1f1e0b1a4ac9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Mybatis/未命名.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Mybatis/未命名.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"scroll\":70.99906897259184}"
             },
             {
@@ -135,7 +135,7 @@
           "type": "markdown",
           "state": {
             "file": "计算机技术与科学/Java/框架/Mybatis/未命名.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
