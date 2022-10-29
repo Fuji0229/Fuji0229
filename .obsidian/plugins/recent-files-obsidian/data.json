@@ -2,6 +2,10 @@
   "recentFiles": [
     {
       "basename": "未命名",
+      "path": "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md"
+    },
+    {
+      "basename": "未命名",
       "path": "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md"
     },
     {
@@ -195,10 +199,6 @@
     {
       "basename": "阿里bug排查",
       "path": "计算机技术与科学/工作/Bug排查/阿里bug排查.md"
-    },
-    {
-      "basename": "bug处理",
-      "path": "计算机技术与科学/工作/Bug排查/bug处理.md"
     }
   ],
   "omittedPaths": [],
