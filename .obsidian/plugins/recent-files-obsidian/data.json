@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "关于争吵",
+      "path": "知识库/思维/思维方式/避免争吵/关于争吵.md"
+    },
+    {
+      "basename": "思维导图模板",
+      "path": "知识库/思维/思维方式/思维导图模板.md"
+    },
+    {
+      "basename": "系统思考",
+      "path": "知识库/思维/系统思考.md"
+    },
+    {
       "basename": "未命名",
       "path": "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Spring Boot 自动装配原理",
       "path": "计算机技术与科学/Java/框架/spring-boot/Spring Boot 自动装配原理.md"
-    },
-    {
-      "basename": "SpingBoot常用注解",
-      "path": "计算机技术与科学/Java/框架/spring-boot/SpingBoot常用注解.md"
-    },
-    {
-      "basename": "Spring Boot 优化小技巧",
-      "path": "计算机技术与科学/Java/框架/spring-boot/Spring Boot 优化小技巧.md"
-    },
-    {
-      "basename": "阿里bug排查",
-      "path": "计算机技术与科学/工作/Bug排查/阿里bug排查.md"
     }
   ],
   "omittedPaths": [],

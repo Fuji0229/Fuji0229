@@ -153,14 +153,34 @@
               "stack": []
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "知识库/思维/思维方式/思维导图模板.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e820f84f33870669",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/思维/思维方式/避免争吵/关于争吵.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md",
+                "file": "知识库/思维/思维方式/避免争吵/关于争吵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md",
+                "file": "知识库/思维/思维方式/避免争吵/关于争吵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md"
+                "file": "知识库/思维/思维方式/避免争吵/关于争吵.md"
               }
             }
           },
@@ -378,8 +398,10 @@
     "width": 151.33334350585938,
     "collapsed": true
   },
-  "active": "57c7b08c02cf1b82",
+  "active": "e820f84f33870669",
   "lastOpenFiles": [
+    "知识库/思维/思维方式/思维导图模板.md",
+    "知识库/思维/系统思考.md",
     "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
     "计算机技术与科学/项目/ERP项目/华夏ERP/Controller/HttpServlet.md",
     "计算机技术与科学/Java/框架/Mybatis/特殊符号.md",
@@ -387,8 +409,6 @@
     "计算机技术与科学/工作/ERP/mybatis/未命名.md",
     "计算机技术与科学/Java/框架/Mybatis/XML映射器/XML映射器.md",
     "计算机技术与科学/Java/代码/良好的编程习惯.md",
-    "计算机技术与科学/Java/网站/常用Java组件和框架.md",
-    "计算机技术与科学/工作/笔记/需求分析/需求分析.md",
-    "计算机技术与科学/工作/笔记/详细设计/详细设计.md"
+    "计算机技术与科学/Java/网站/常用Java组件和框架.md"
   ]
 }
