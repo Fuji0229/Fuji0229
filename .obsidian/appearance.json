@@ -5,5 +5,6 @@
   "theme": "obsidian",
   "baseFontSize": 20,
   "interfaceFontFamily": "楷体,Cambria Math",
-  "monospaceFontFamily": "楷体,Cambria Math"
+  "monospaceFontFamily": "楷体,Cambria Math",
+  "accentColor": ""
 }

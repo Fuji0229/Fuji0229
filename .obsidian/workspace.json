@@ -1,0 +1,394 @@
+{
+  "main": {
+    "id": "243b01b2691eb0e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "259daceb2ad6dc56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af6d1f1e0b1a4ac9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/项目/ERP项目/华夏ERP/Controller/HttpServlet.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Mybatis/特殊符号.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Mybatis/未命名.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":154,\"ch\":155},\"to\":{\"line\":154,\"ch\":155}},\"scroll\":154.8482138769967}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/工作/ERP/mybatis/未命名.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11.996278274996643}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Mybatis/XML映射器/XML映射器.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":25.844185256058513}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/代码/良好的编程习惯.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":80.91767186598179}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/网站/常用Java组件和框架.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":12.738139088102429}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Mybatis/XML映射器/XML映射器.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":154.47000157641028}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/工作/笔记/需求分析/需求分析.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":30},\"to\":{\"line\":3,\"ch\":30}},\"scroll\":24.00064593398654}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/工作/笔记/详细设计/详细设计.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.46069215641602}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/工作/笔记/接口设计/接口设计.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":30.37529959036366}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第三章 访问授权/访问授权.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第二章 用户认证/用户认证体系.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":0},\"to\":{\"line\":99,\"ch\":0}},\"scroll\":91.92062170469372}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第一章 直面Spring Security.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":160},\"to\":{\"line\":30,\"ch\":160}},\"scroll\":29.01842597689069}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第二章 用户认证/用户认证体系.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":40},\"to\":{\"line\":14,\"ch\":40}},\"scroll\":15.214375667648659}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战/第一章 直面Spring Security.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"scroll\":26.40349636713213}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/未命名.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "af6d1f1e0b1a4ac9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"计算机技术与科学/Java/框架/Spring  Sercurity/Spring Security 原理与实战.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57c7b08c02cf1b82",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99bedab1549034cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "73a8065a9639e119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39cfa036a99a855c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机技术与科学/Java/框架/Spring MVC/Spring MVC 理解.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c45fef973b3a24ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7e44ebe2e76ae3c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0a5a71cd594a49f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390
+  },
+  "right": {
+    "id": "64cd576c686a09cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b25b7621c12a3be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d48d89c1e4e16ff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fa72ec3ace11799",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a22b61c62dd5a279",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0183ded311c1ef13",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md"
+              }
+            }
+          },
+          {
+            "id": "399dec02894151d2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "37760e6e77ca7a61",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e1bee0fbaa99885",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "8dba74c4048b38bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be99976460dc167",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 151.33334350585938,
+    "collapsed": true
+  },
+  "active": "57c7b08c02cf1b82",
+  "lastOpenFiles": [
+    "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
+    "计算机技术与科学/项目/ERP项目/华夏ERP/Controller/HttpServlet.md",
+    "计算机技术与科学/Java/框架/Mybatis/特殊符号.md",
+    "计算机技术与科学/Java/框架/Mybatis/未命名.md",
+    "计算机技术与科学/工作/ERP/mybatis/未命名.md",
+    "计算机技术与科学/Java/框架/Mybatis/XML映射器/XML映射器.md",
+    "计算机技术与科学/Java/代码/良好的编程习惯.md",
+    "计算机技术与科学/Java/网站/常用Java组件和框架.md",
+    "计算机技术与科学/工作/笔记/需求分析/需求分析.md",
+    "计算机技术与科学/工作/笔记/详细设计/详细设计.md"
+  ]
+}
