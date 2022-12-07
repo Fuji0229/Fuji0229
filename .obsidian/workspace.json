@@ -155,7 +155,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "计算机技术与科学/书籍/自顶向下/第二章 学习1.md",
+=======
+                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
+>>>>>>> b71fca178cedd1c5216b14ef2cf17f628def52a0
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -263,7 +267,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "计算机技术与科学/书籍/自顶向下/第二章 学习1.md",
+=======
+                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
+>>>>>>> b71fca178cedd1c5216b14ef2cf17f628def52a0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +292,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "计算机技术与科学/书籍/自顶向下/第二章 学习1.md",
+=======
+                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
+>>>>>>> b71fca178cedd1c5216b14ef2cf17f628def52a0
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +327,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "计算机技术与科学/书籍/自顶向下/第二章 学习1.md"
+=======
+                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md"
+>>>>>>> b71fca178cedd1c5216b14ef2cf17f628def52a0
               }
             }
           },
