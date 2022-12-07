@@ -1,0 +1,22 @@
+{
+  "legacyEditor": false,
+  "defaultViewMode": "source",
+  "showFrontmatter": true,
+  "spellcheck": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "附件\\",
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "userIgnoreFilters": null,
+  "promptDelete": true,
+  "livePreview": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "communityPluginSortOrder": "download"
+}
