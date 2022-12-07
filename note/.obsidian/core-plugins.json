@@ -16,6 +16,10 @@
   "markdown-importer",
   "outline",
   "word-count",
+<<<<<<< HEAD
+=======
+  "open-with-default-app",
+>>>>>>> origin/main
   "workspaces",
   "file-recovery"
 ]
