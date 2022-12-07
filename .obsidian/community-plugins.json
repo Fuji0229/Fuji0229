@@ -35,5 +35,7 @@
   "tag-wrangler",
   "obsidian-tabs",
   "format-hotkeys-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-activity-history",
+  "copy-publish-url"
 ]

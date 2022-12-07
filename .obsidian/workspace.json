@@ -155,11 +155,24 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习1.md",
-=======
                 "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
->>>>>>> b71fca178cedd1c5216b14ef2cf17f628def52a0
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e3ee5fba5331a0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -167,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,11 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习1.md",
-=======
                 "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
->>>>>>> b71fca178cedd1c5216b14ef2cf17f628def52a0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,11 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习1.md",
-=======
                 "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
->>>>>>> b71fca178cedd1c5216b14ef2cf17f628def52a0
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,11 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习1.md"
-=======
                 "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md"
->>>>>>> b71fca178cedd1c5216b14ef2cf17f628def52a0
               }
             }
           },
@@ -397,8 +398,10 @@
     "width": 151.33334350585938,
     "collapsed": true
   },
-  "active": "de03689fde2924dd",
+  "active": "4e3ee5fba5331a0b",
   "lastOpenFiles": [
+    "计算机技术与科学/书籍/自顶向下/第三章.md",
+    "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
     "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
     "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md",
     "知识库/思维/思维方式/思维导图模板.md",
@@ -406,8 +409,6 @@
     "计算机技术与科学/项目/ERP项目/华夏ERP/Controller/HttpServlet.md",
     "计算机技术与科学/Java/框架/Mybatis/特殊符号.md",
     "计算机技术与科学/Java/框架/Mybatis/未命名.md",
-    "计算机技术与科学/工作/ERP/mybatis/未命名.md",
-    "计算机技术与科学/Java/框架/Mybatis/XML映射器/XML映射器.md",
-    "计算机技术与科学/Java/代码/良好的编程习惯.md"
+    "计算机技术与科学/工作/ERP/mybatis/未命名.md"
   ]
 }
