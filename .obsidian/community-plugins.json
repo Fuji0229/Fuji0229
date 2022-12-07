@@ -20,10 +20,8 @@
   "map-of-content",
   "table-editor-obsidian",
   "nldates-obsidian",
-  "obsidian-git",
   "better-word-count",
   "obsidian-to-anki-plugin",
-  "copy-publish-url",
   "obsidian-vimrc-support",
   "obsidian-enhancing-mindmap",
   "cm-show-whitespace-obsidian",
@@ -37,5 +35,5 @@
   "tag-wrangler",
   "obsidian-tabs",
   "format-hotkeys-obsidian",
-  "obsidian-activity-history"
+  "obsidian-git"
 ]

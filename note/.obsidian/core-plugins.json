@@ -11,15 +11,9 @@
   "templates",
   "note-composer",
   "command-palette",
-  "slash-command",
   "editor-status",
-  "markdown-importer",
+  "starred",
   "outline",
   "word-count",
-<<<<<<< HEAD
-=======
-  "open-with-default-app",
->>>>>>> origin/main
-  "workspaces",
   "file-recovery"
 ]

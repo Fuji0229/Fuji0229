@@ -1,9 +1,9 @@
 {
   "homeNote": "",
-  "publishPath": "https://oauth2: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@github.com/Fuji0229/Fuji0229.git/",
+  "publishPath": "https://github.com/Fuji0229/Fuji0229.git/",
   "enableContext": true,
   "enableOpenUrl": true,
   "enableGithub": true,
-  "remoteUrl": "git@oauth2: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@github.com/Fuji0229/Fuji0229.git/",
+  "remoteUrl": "https://github.com/Fuji0229/Fuji0229.git/",
   "branch": "main"
 }

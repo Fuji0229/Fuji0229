@@ -146,11 +146,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "de03689fde2924dd",
-=======
-            "id": "57c7b08c02cf1b82",
->>>>>>> origin/main
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -159,40 +155,15 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "计算机技术与科学/书籍/自顶向下/第二章.md",
-=======
-                "file": "知识库/思维/思维方式/思维导图模板.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e820f84f33870669",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/思维/思维方式/避免争吵/关于争吵.md",
->>>>>>> origin/main
+                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-<<<<<<< HEAD
         ],
         "currentTab": 1
-=======
-        ]
->>>>>>> origin/main
       }
     ],
     "direction": "vertical"
@@ -292,11 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "计算机技术与科学/书籍/自顶向下/第二章.md",
-=======
-                "file": "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
->>>>>>> origin/main
+                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,11 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "计算机技术与科学/书籍/自顶向下/第二章.md",
-=======
-                "file": "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
->>>>>>> origin/main
+                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,11 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "计算机技术与科学/书籍/自顶向下/第二章.md"
-=======
-                "file": "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md"
->>>>>>> origin/main
+                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md"
               }
             }
           },
@@ -422,21 +381,12 @@
     "width": 151.33334350585938,
     "collapsed": true
   },
-<<<<<<< HEAD
   "active": "de03689fde2924dd",
   "lastOpenFiles": [
     "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
     "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md",
     "知识库/思维/思维方式/思维导图模板.md",
     "知识库/思维/系统思考.md",
-=======
-  "active": "af6d1f1e0b1a4ac9",
-  "lastOpenFiles": [
-    "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md",
-    "知识库/思维/思维方式/思维导图模板.md",
-    "知识库/思维/系统思考.md",
-    "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
->>>>>>> origin/main
     "计算机技术与科学/项目/ERP项目/华夏ERP/Controller/HttpServlet.md",
     "计算机技术与科学/Java/框架/Mybatis/特殊符号.md",
     "计算机技术与科学/Java/框架/Mybatis/未命名.md",

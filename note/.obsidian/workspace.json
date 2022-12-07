@@ -52,12 +52,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "97ae7fcdff8913e4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e753c50930bc3aec",
@@ -120,6 +129,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a420b433ffc294ea",
+  "active": "de361bcd8ffb68da",
   "lastOpenFiles": []
 }
