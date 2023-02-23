@@ -12,7 +12,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "markdown",
@@ -42,7 +47,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "markdown",
@@ -59,7 +69,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "search",
@@ -78,7 +93,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "recent-files",
@@ -90,7 +110,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "file-explorer",
@@ -119,7 +144,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "backlink",
@@ -140,7 +170,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "outgoing-link",
@@ -156,7 +191,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "tag",
@@ -171,7 +211,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "outline",
@@ -185,7 +230,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "side-panel-control-view",
@@ -197,7 +247,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "juggl_nodes",
@@ -209,7 +264,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "juggl_style",
@@ -228,7 +288,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "map-of-content",
@@ -244,7 +309,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-journey-plugin:Find Journey": false,
       "juggl:Juggl global graph": false,
       "workbench-obsidian:Workbench": false,
@@ -256,8 +320,9 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
-      "map-of-content:Update Map of Content": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "map-of-content:Update Map of Content": false
     }
   },
   "active": "f7e44ebe2e76ae3c",
