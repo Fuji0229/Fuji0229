@@ -12,7 +12,7 @@
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": true,
-  "syncMethod": "merge",
+  "syncMethod": "rebase",
   "customMessageOnAutoBackup": true,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
@@ -20,7 +20,8 @@
   "basePath": "zl1138667105@gmail.com",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": true,
-  "username": "",
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000
+  "refreshSourceControlTimer": 7000,
+  "showBranchStatusBar": true,
+  "setLastSaveToLastCommit": false
 }
