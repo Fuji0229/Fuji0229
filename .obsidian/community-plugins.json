@@ -38,5 +38,12 @@
   "obsidian-git",
   "obsidian-activity-history",
   "copy-publish-url",
-  "ProxyGithub"
+  "ProxyGithub",
+  "discordian-plugin",
+  "obsidian-auto-link-title",
+  "obsidian-autocomplete-plugin",
+  "obsidian-collapse-all-plugin",
+  "editing-toolbar",
+  "obsidian-plantuml",
+  "gpt3-notes"
 ]
