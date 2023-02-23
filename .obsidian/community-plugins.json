@@ -35,9 +35,9 @@
   "tag-wrangler",
   "obsidian-tabs",
   "format-hotkeys-obsidian",
-  "obsidian-git",
   "obsidian-activity-history",
   "copy-publish-url",
+<<<<<<< HEAD
   "ProxyGithub",
   "discordian-plugin",
   "obsidian-auto-link-title",
@@ -46,4 +46,8 @@
   "editing-toolbar",
   "obsidian-plantuml",
   "gpt3-notes"
+=======
+  "obsidian-git",
+  "editing-toolbar"
+>>>>>>> 21664a1 (vault backup: 2023-02-23 21:29:44)
 ]

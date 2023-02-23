@@ -1,8 +1,49 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Day Planner-20220307",
       "path": "Day Planners/Day Planner-20220307.md"
+=======
+      "basename": "Day Planner-20230221",
+      "path": "Day Planners/Day Planner-20230221.md"
+    },
+    {
+      "basename": "Day Planner-20230220",
+      "path": "Day Planners/Day Planner-20230220.md"
+    },
+    {
+      "basename": "Day Planner-20220307",
+      "path": "Day Planners/Day Planner-20220307.md"
+    },
+    {
+      "basename": "Spring 如何解决循环依赖问题",
+      "path": "计算机技术与科学/Java/spring全家桶/Spring/Spring 如何解决循环依赖问题.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "今日热点/少数派/未命名.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "今日热点/少数派/未命名 1.md"
+    },
+    {
+      "basename": "2.Naocs",
+      "path": "计算机技术与科学/Java/spring全家桶/spring cloud/2.Naocs.md"
+    },
+    {
+      "basename": "1.Spring Cloud框架搭建",
+      "path": "计算机技术与科学/Java/spring全家桶/spring cloud/1.Spring Cloud框架搭建.md"
+    },
+    {
+      "basename": "技术栈",
+      "path": "计算机技术与科学/Java/技术栈/技术栈.md"
+    },
+    {
+      "basename": "第二章 学习1",
+      "path": "计算机技术与科学/书籍/自顶向下/第二章 学习1.md"
+>>>>>>> 21664a1 (vault backup: 2023-02-23 21:29:44)
     },
     {
       "basename": "第三章",
