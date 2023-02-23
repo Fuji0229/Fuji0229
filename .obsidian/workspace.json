@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Markdown语法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"obisidian笔记/笔记语法/Markdown语法.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":35.36257091419621}"
+                },
+                {
+                  "title": "未命名 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"今日热点/少数派/未命名 1.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.805128185565655}"
+                },
+                {
                   "title": "未命名",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"今日热点/少数派/未命名.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
@@ -94,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "今日热点/少数派/未命名 1.md",
+                "file": "今日热点/少数派/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "今日热点/少数派/未命名 1.md",
+                "file": "今日热点/少数派/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "今日热点/少数派/未命名 1.md",
+                "file": "今日热点/少数派/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "今日热点/少数派/未命名 1.md"
+                "file": "今日热点/少数派/未命名.md"
               }
             }
           },
@@ -393,7 +405,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -414,12 +426,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "06e532ac5df8ee45",
+  "active": "7be99976460dc167",
   "lastOpenFiles": [
-    "今日热点/少数派/未命名.md",
-    "今日热点/少数派/未命名 1.md",
-    "知识库/思维/分析和解决问题-知乎/如何解决问题.md",
     "obisidian笔记/笔记语法/Markdown语法.md",
+    "今日热点/少数派/未命名 1.md",
+    "今日热点/少数派/未命名.md",
+    "知识库/思维/分析和解决问题-知乎/如何解决问题.md",
     "未命名.md",
     "附件/Pasted image 20230220180735.png",
     "附件/Pasted image 20230220180502.png",

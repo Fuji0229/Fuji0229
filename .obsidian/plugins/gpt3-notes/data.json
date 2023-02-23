@@ -1,6 +1,6 @@
 {
   "appName": "GP3_NOTES",
-  "token": "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",
+  "token": "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",
   "model": "text-davinci-003",
   "tokens": 200,
   "temperature": 5,
@@ -26,6 +26,24 @@
     {
       "prompt": "java 备忘录模式Write a program with sources ",
       "processedPrompt": "java 备忘录模式Write a program with sources ",
+      "temperature": 0.5,
+      "tokens": 200
+    },
+    {
+      "prompt": "Write an essay with comments ",
+      "processedPrompt": "Write an essay with comments ",
+      "temperature": 0.5,
+      "tokens": 200
+    },
+    {
+      "prompt": "Write a program with sources java 实现加法器\n",
+      "processedPrompt": "Write a program with sources java 实现加法器\n",
+      "temperature": 0.5,
+      "tokens": 200
+    },
+    {
+      "prompt": "格式当前文档",
+      "processedPrompt": "格式当前文档",
       "temperature": 0.5,
       "tokens": 200
     }
