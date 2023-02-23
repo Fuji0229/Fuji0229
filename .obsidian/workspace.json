@@ -285,7 +285,7 @@
             }
           },
           {
-            "id": "5cb8373ccb776770",
+            "id": "4db0e025055011f6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -329,7 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 151.33334350585938
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,14 +343,14 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
-      "map-of-content:Update Map of Content": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "gpt3-notes:GPT-3 Notes": false
+      "gpt3-notes:GPT-3 Notes": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "5cb8373ccb776770",
+  "active": "4db0e025055011f6",
   "lastOpenFiles": [
     "未命名.md",
     "附件/Pasted image 20230220180735.png",

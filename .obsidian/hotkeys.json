@@ -6,5 +6,21 @@
       ],
       "key": "D"
     }
+  ],
+  "smart-connections:sc-find-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "smart-connections:smart-connections-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
