@@ -165,8 +165,13 @@
               "stack": []
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机技术与科学/中间件/redis/Redis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -270,6 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机技术与科学/中间件/redis/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机技术与科学/中间件/redis/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +326,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机技术与科学/中间件/redis/Redis.md"
+              }
             }
           },
           {
@@ -402,8 +411,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "a0a5a71cd594a49f",
+  "active": "4e3ee5fba5331a0b",
   "lastOpenFiles": [
+    "计算机技术与科学/中间件/redis/Redis.md",
+    "计算机技术与科学/中间件/redis",
     "计算机技术与科学/中间件",
     "Day Planners/Day Planner-20230223.md",
     "计算机技术与科学/书籍/自顶向下/第三章.md",
