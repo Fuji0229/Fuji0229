@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "259daceb2ad6dc56",
+        "id": "a11223b1a6486f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "4e3ee5fba5331a0b",
+            "id": "4fda3e3dd9b62f2f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,39 +20,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/1.SDS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91caa99cccc5fbbd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "currentVersion": "1.1.15"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,9 +215,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md"
-              }
+              "state": {}
             }
           },
           {
@@ -332,44 +302,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "gpt3-notes:GPT-3 Notes": false,
+      "canvas:新建白板": false,
       "obsidian-journey-plugin:Find Journey": false,
       "juggl:Juggl global graph": false,
       "workbench-obsidian:Workbench": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
+      "map-of-content:Update Map of Content": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "map-of-content:Update Map of Content": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "91caa99cccc5fbbd",
+  "active": "4fda3e3dd9b62f2f",
   "lastOpenFiles": [
-    "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/1.SDS.md",
     "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md",
-    "附件/c字符串和SDS的区别.png",
-    "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/未命名",
-    "计算机技术与科学/中间件/redis/Redis.md",
+    "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/1.SDS.md",
     "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象",
     "计算机技术与科学/中间件/redis/Redis设计与实现",
-    "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
     "计算机技术与科学/中间件/redis",
     "计算机技术与科学/中间件",
-    "Day Planners/Day Planner-20230223.md",
-    "计算机技术与科学/书籍/自顶向下/第三章.md",
-    "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
-    "计算机技术与科学/Java/Java编程思想/OnJava8/第一章/未命名.md",
-    "知识库/思维/思维方式/思维导图模板.md",
-    "知识库/思维/系统思考.md",
-    "计算机技术与科学/项目/ERP项目/华夏ERP/Controller/HttpServlet.md",
-    "计算机技术与科学/Java/框架/Mybatis/特殊符号.md",
-    "计算机技术与科学/Java/框架/Mybatis/未命名.md",
-    "计算机技术与科学/工作/ERP/mybatis/未命名.md"
+    "Day Planners/Day Planner-20230220.md",
+    "Day Planners/Day Planner-20220307.md",
+    "计算机技术与科学/Java/spring全家桶/Spring/Spring 如何解决循环依赖问题.md",
+    "今日热点/少数派/未命名.md",
+    "今日热点/少数派/未命名 1.md",
+    "计算机技术与科学/Java/spring全家桶/spring cloud/2.Naocs.md",
+    "计算机技术与科学/Java/spring全家桶/spring cloud/1.Spring Cloud框架搭建.md",
+    "计算机技术与科学/Java/技术栈/技术栈.md",
+    "计算机技术与科学/书籍/自顶向下/第二章 学习1.md",
+    "计算机技术与科学/书籍/自顶向下/第三章.md"
   ]
 }
