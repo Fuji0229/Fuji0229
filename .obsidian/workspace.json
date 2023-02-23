@@ -153,13 +153,8 @@
               "stack": []
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -170,13 +165,8 @@
               "stack": []
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -280,7 +270,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +290,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,9 +319,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机技术与科学/书籍/自顶向下/第二章 学习.md"
-              }
+              "state": {}
             }
           },
           {
@@ -398,8 +384,28 @@
     "width": 151.33334350585938,
     "collapsed": true
   },
-  "active": "4e3ee5fba5331a0b",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "juggl:Juggl global graph": false,
+      "workbench-obsidian:Workbench": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "a0a5a71cd594a49f",
   "lastOpenFiles": [
+    "计算机技术与科学/中间件",
+    "Day Planners/Day Planner-20230223.md",
     "计算机技术与科学/书籍/自顶向下/第三章.md",
     "计算机技术与科学/书籍/自顶向下/第二章 学习.md",
     "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
