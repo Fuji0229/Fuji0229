@@ -1,1 +1,10 @@
-{}
+{
+  "gpt3-notes:create-gpt3-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
+}

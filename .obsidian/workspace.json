@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a11223b1a6486f1d",
+        "id": "40ea66b4b01f51bc",
         "type": "tabs",
         "children": [
           {
-            "id": "4fda3e3dd9b62f2f",
+            "id": "06e532ac5df8ee45",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,9 +20,12 @@
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -151,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +220,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           },
           {
@@ -268,9 +275,34 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "bf29d54c138094a2",
+            "type": "leaf",
+            "state": {
+              "type": "gptModelSettings",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cb8373ccb776770",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       },
       {
         "id": "8dba74c4048b38bb",
@@ -297,8 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 151.33334350585938,
-    "collapsed": true
+    "width": 151.33334350585938
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,11 +346,13 @@
       "map-of-content:Update Map of Content": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "4fda3e3dd9b62f2f",
+  "active": "5cb8373ccb776770",
   "lastOpenFiles": [
+    "未命名.md",
     "附件/Pasted image 20230220180735.png",
     "附件/Pasted image 20230220180502.png",
     "计算机技术与科学/书籍/自顶向下/第二章 学习1.md",

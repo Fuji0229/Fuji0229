@@ -1,0 +1,34 @@
+{
+  "appName": "GP3_NOTES",
+  "token": "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",
+  "model": "text-davinci-003",
+  "tokens": 200,
+  "temperature": 5,
+  "promptHistory": [
+    {
+      "prompt": "java 实现 date时期格式转换\nWrite a program ",
+      "processedPrompt": "java 实现 date时期格式转换\nWrite a program ",
+      "temperature": 0.5,
+      "tokens": 200
+    }
+  ],
+  "tokenParams": {
+    "prefix": [
+      "Write an essay",
+      "Write dashed notes",
+      "Write bullet notes",
+      "Write paragraphs",
+      "Write an article",
+      "Create a manual",
+      "Create an outline",
+      "Write a summary",
+      "Write a program"
+    ],
+    "postfix": [
+      "with sources",
+      "with footnotes",
+      "with comments",
+      "with quotes"
+    ]
+  }
+}
