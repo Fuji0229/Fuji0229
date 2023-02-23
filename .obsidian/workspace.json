@@ -22,14 +22,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机技术与科学/中间件/redis/Redis.md",
+                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/1.SDS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91caa99cccc5fbbd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机技术与科学/中间件/redis/Redis.md",
+                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机技术与科学/中间件/redis/Redis.md",
+                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机技术与科学/中间件/redis/Redis.md"
+                "file": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md"
               }
             }
           },
@@ -309,6 +332,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "gpt3-notes:GPT-3 Notes": false,
       "obsidian-journey-plugin:Find Journey": false,
       "juggl:Juggl global graph": false,
       "workbench-obsidian:Workbench": false,
@@ -325,10 +349,16 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f7e44ebe2e76ae3c",
+  "active": "91caa99cccc5fbbd",
   "lastOpenFiles": [
-    "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
+    "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/1.SDS.md",
+    "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md",
+    "附件/c字符串和SDS的区别.png",
+    "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/未命名",
     "计算机技术与科学/中间件/redis/Redis.md",
+    "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象",
+    "计算机技术与科学/中间件/redis/Redis设计与实现",
+    "计算机技术与科学/书籍/重构-改善既有代码/第一章/重构 第一个案例/未命名.md",
     "计算机技术与科学/中间件/redis",
     "计算机技术与科学/中间件",
     "Day Planners/Day Planner-20230223.md",

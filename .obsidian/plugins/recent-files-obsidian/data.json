@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Redis",
-      "path": "计算机技术与科学/中间件/redis/Redis.md"
+      "basename": "2.链表",
+      "path": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/2.链表.md"
+    },
+    {
+      "basename": "1.SDS",
+      "path": "计算机技术与科学/中间件/redis/Redis设计与实现/1.数据结构与对象/1.SDS.md"
     },
     {
       "basename": "未命名",
@@ -195,10 +199,6 @@
     {
       "basename": "git提交至github",
       "path": "计算机技术与科学/git/git提交至github.md"
-    },
-    {
-      "basename": "SQL调优",
-      "path": "计算机技术与科学/Java/面试题/SQL调优.md"
     }
   ],
   "omittedPaths": [],
