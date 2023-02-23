@@ -10,6 +10,24 @@
       "processedPrompt": "java 实现 date时期格式转换\nWrite a program ",
       "temperature": 0.5,
       "tokens": 200
+    },
+    {
+      "prompt": "格式化当前文档",
+      "processedPrompt": "格式化当前文档",
+      "temperature": 0.5,
+      "tokens": 200
+    },
+    {
+      "prompt": "java 备忘录模式Write a program ",
+      "processedPrompt": "java 备忘录模式Write a program ",
+      "temperature": 0.5,
+      "tokens": 200
+    },
+    {
+      "prompt": "java 备忘录模式Write a program with sources ",
+      "processedPrompt": "java 备忘录模式Write a program with sources ",
+      "temperature": 0.5,
+      "tokens": 200
     }
   ],
   "tokenParams": {
