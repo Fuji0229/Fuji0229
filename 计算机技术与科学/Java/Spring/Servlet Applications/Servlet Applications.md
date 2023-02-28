@@ -170,9 +170,58 @@ Security Filters的顺序
 处理Security Exception
 ExceptionTranslationFilter 允许将 AccessDeniedException 和AuthenticationException 转换为Http响应。
 ExceptionTranslationFilter 作为一个Security Filter插入FilterChainProxy。
-下图转世了ExceptionTranslationFilter和其他组件的关系![[附件/Pasted image 20230228131050.png]]
+下图转世了ExceptionTranslationFilter和其他组件的关系
+![[附件/Pasted image 20230228131050.png]]
 + 1. ExceptionTranslationFilter 调用FilterChain.doFilter(request, response) 来调用应用程序的其余部分
 + 2.如果用户未未通过身份验证，或者当前抛出AuthticationException，那么开始 身份认证
 	+ SecurityContextHolder 被清空
 	+ 保存HttpServletRequest ，以便于它能够在认证成功后重新被使
-+ AuthenticationEntryPoint 被用于从客户端获取凭证。例如，它可能会重定向到登录页面，或者，发送一个www-Authenticate header。![[附件/Pasted image 20230228131050.png]]
++ AuthenticationEntryPoint 被用于从客户端获取凭证。例如，它可能会重定向到登录页面，或者，发送一个www-Authenticate header。
+  psecudocode
+```java
+try {
+	filterChain.doFilter(request, response);
+} catch (AccessDeniedException | AuthenticationException ex) {
+	if (!authenticated || ex instanceof AuthenticationException) {
+		startAuthentication();
+	} else {
+		accessDenied();
+	}
+}
+```
+
+## Saving Requests Between Authentication
+使用RequestCache 实现，确保需要授权的资源授权成功之后能重新发送请求。
+### RequestCache
+如果存在名为continue的参数，那么RequestCache 实现将检查HttpSession并保存request
+```java
+@Bean
+DefaultSecurityFilterChain springSecurity(HttpSecurity http) throws Exception {
+	HttpSessionRequestCache requestCache = new HttpSessionRequestCache();
+	requestCache.setMatchingRequestParameterName("continue");
+	http
+		// ...
+		.requestCache((cache) -> cache
+			.requestCache(requestCache)
+		);
+	return http.build();
+}
+```
+#### Prevent the Request From Being Saved
+您可能希望将该存储转移到用户的浏览器上或将其存储在数据库中。或者您可能希望关闭此功能，因为您始终希望将用户重定向到主页，而不是登录前他们尝试访问的页面。
+为此可以用用NullRequestCache implementation
+```java
+@Bean
+SecurityFilterChain springSecurity(HttpSecurity http) throws Exception {
+    RequestCache nullRequestCache = new NullRequestCache();
+    http
+        // ...
+        .requestCache((cache) -> cache
+            .requestCache(nullRequestCache)
+        );
+    return http.build();
+}
+```
+### RequestCacheAwareFilter
+
+The [`RequestCacheAwareFilter`](https://docs.spring.io/spring-security/site/docs/6.0.2/api/org/springframework/security/web/savedrequest/RequestCacheAwareFilter.html) uses the [`RequestCache`](https://docs.spring.io/spring-security/reference/servlet/architecture.html#requestcache) to save the `HttpServletRequest`.
