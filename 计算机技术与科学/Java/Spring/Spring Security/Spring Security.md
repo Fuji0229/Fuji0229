@@ -1,4 +1,3 @@
-
 ```java
 <dependency>  
    <groupId>org.springframework.boot</groupId>  
@@ -99,5 +98,6 @@ FilterChain提供大量通过Serlvet容器或是DelegationFilterProxy直接注�
 	多个SecurityFilterChain实例
 	FilterChainProxy决定哪个Security应该被使用，只有第一个匹配的SecurityFilterChain被调用。
 	示例图讲解：
-	1. 如果请求的Url为/api/**，那么即使SecurityFilterChainn也符合匹配规则，也只有SecurityFilterChain0被调用。
-	2. 如果请求的url为message，SecurityFilterChain0不满足规则，FilterChain将会继续向下匹配，那么只有SecurityFilterChainN被调用
+	1. 如果请求的Url为/api/** ，那么即使SecurityFilterChainn也符合匹配规则，也只有SecurityFilterChain0被调用。
+	2. 如果请求的url为message，SecurityFilterChain0不满足规则，FilterChain将会继续向下匹配，如果没有其他的匹配，那么只有SecurityFilterChainN被调用
+	3. 
