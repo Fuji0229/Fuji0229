@@ -100,4 +100,79 @@ FilterChain提供大量通过Serlvet容器或是DelegationFilterProxy直接注�
 	示例图讲解：
 	1. 如果请求的Url为/api/** ，那么即使SecurityFilterChainn也符合匹配规则，也只有SecurityFilterChain0被调用。
 	2. 如果请求的url为message，SecurityFilterChain0不满足规则，FilterChain将会继续向下匹配，如果没有其他的匹配，那么只有SecurityFilterChainN被调用
-	3. 
+	3. SecurityFilterChain0有三个实例，而SecurityFilterChainN有四个实例。这意味着，每个SecurityFilterChain可能是唯一的。事实上，如果Spring Security想要忽略某些请求，那么该SecurityFilterChain可能没有instance。
+
+Security Filters的顺序
+-   [`ForceEagerSessionCreationFilter`](https://docs.spring.io/spring-security/reference/servlet/authentication/session-management.html#session-mgmt-force-session-creation)
+    
+-   `ChannelProcessingFilter`
+    
+-   `WebAsyncManagerIntegrationFilter`
+    
+-   `SecurityContextPersistenceFilter`
+    
+-   `HeaderWriterFilter`
+    
+-   `CorsFilter`
+    
+-   `CsrfFilter`
+    
+-   `LogoutFilter`
+    
+-   `OAuth2AuthorizationRequestRedirectFilter`
+    
+-   `Saml2WebSsoAuthenticationRequestFilter`
+    
+-   `X509AuthenticationFilter`
+    
+-   `AbstractPreAuthenticatedProcessingFilter`
+    
+-   `CasAuthenticationFilter`
+    
+-   `OAuth2LoginAuthenticationFilter`
+    
+-   `Saml2WebSsoAuthenticationFilter`
+    
+-   [`UsernamePasswordAuthenticationFilter`](https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/form.html#servlet-authentication-usernamepasswordauthenticationfilter)
+    
+-   `DefaultLoginPageGeneratingFilter`
+    
+-   `DefaultLogoutPageGeneratingFilter`
+    
+-   `ConcurrentSessionFilter`
+    
+-   [`DigestAuthenticationFilter`](https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/digest.html#servlet-authentication-digest)
+    
+-   `BearerTokenAuthenticationFilter`
+    
+-   [`BasicAuthenticationFilter`](https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/basic.html#servlet-authentication-basic)
+    
+-   [RequestCacheAwareFilter](https://docs.spring.io/spring-security/reference/servlet/architecture.html#requestcacheawarefilter)
+    
+-   `SecurityContextHolderAwareRequestFilter`
+    
+-   `JaasApiIntegrationFilter`
+    
+-   `RememberMeAuthenticationFilter`
+    
+-   `AnonymousAuthenticationFilter`
+    
+-   `OAuth2AuthorizationCodeGrantFilter`
+    
+-   `SessionManagementFilter`
+    
+-   [`ExceptionTranslationFilter`](https://docs.spring.io/spring-security/reference/servlet/architecture.html#servlet-exceptiontranslationfilter)
+    
+-   [`FilterSecurityInterceptor`](https://docs.spring.io/spring-security/reference/servlet/authorization/authorize-requests.html#servlet-authorization-filtersecurityinterceptor)
+    
+-   `SwitchUserFilter`
+
+处理Security Exception
+ExceptionTranslationFilter 允许将 AccessDeniedException 和AuthenticationException 转换为Http响应。
+ExceptionTranslationFilter 作为一个Security Filter插入FilterChainProxy。
+下图转世了ExceptionTranslationFilter和其他组件的关系![[附件/Pasted image 20230228131050.png]]
++ 1. ExceptionTranslationFilter 调用FilterChain.doFilter(request, response) 来调用应用程序的其余部分
++ 2.如果用户未未通过身份验证，或者当前抛出AuthticationException，那么开始 身份认证
+	+ SecurityContextHolder 被清空
+	+ 保存HttpServletRequest ，以便于它能够在认证成功后重新被使
++ AuthenticationEntryPoint 被用于从客户端获取凭证。例如，它可能会重定向到登录页面，或者，发送一个www-Authenticate header。![[附件/Pasted image 20230228131050.png]]
