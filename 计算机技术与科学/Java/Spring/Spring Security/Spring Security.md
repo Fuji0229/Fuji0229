@@ -52,7 +52,7 @@ public void doFilter(ServletRequest request, ServletResponse response, FilterCha
     // do something after the rest of the application
 }
 ```
-Filter的能力来自于传入的FIlterChain
+Filter的能力来自于传入的FilterChain
 因为Filter只影响下游Filter实例和Servlet，Filter的顺序是至关重要的
 ## DelegatingFilterProxy
 授权过滤器的代理
@@ -89,8 +89,15 @@ SpringFilterChain中的Security Filter通常上都是bean，因为他们都通�
 FilterChain提供大量通过Serlvet容器或是DelegationFilterProxy直接注册的方式。
 	1. 为Spring Security 的Servlet支持提供了起点
 	   如果你想要故障排查Spring Security的Servlet Support，在FilterChainProxy添加断点是个不错的主意。
-	2. 因为FilterChain 是Spring Security的用法，能够执行那些不可见的任务。
+	2. 因为FilterChain 是Spring Security的用法，能够执行那些不可见的选项的任务。
 	   例如，清空SecurityContext避免内存泄漏
 	   也应用Spring Security的HttpFirewall保护应用避免某种类型的攻击。
 	3. 此外，它在确定何时应调用SecurityFilterChain时提供了更多的灵活性。
-	   在一个Servlet容器中，Filter instance仅会被基于URL的方式调用。然而FilterChain通过使用RequestMatcher Interface在HttpServletRequest中，可以基于任何方式来确定调用。
+	   在一个Servlet容器中，Filter instance仅会被基于URL的方式调用。然而 FilterChainProxy通过使用RequestMatcher Interface在HttpServletRequest中，可以基于任何方式来确定调用。
+	   
+	![[附件/Pasted image 20230228100749.png]]
+	多个SecurityFilterChain实例
+	FilterChainProxy决定哪个Security应该被使用，只有第一个匹配的SecurityFilterChain被调用。
+	示例图讲解：
+	1. 如果请求的Url为/api/**，那么即使SecurityFilterChainn也符合匹配规则，也只有SecurityFilterChain0被调用。
+	2. 如果请求的url为message，SecurityFilterChain0不满足规则，FilterChain将会继续向下匹配，那么只有SecurityFilterChainN被调用
