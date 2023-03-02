@@ -90,3 +90,13 @@ Spring Security 的过滤器实例调用AuthenticationManager，并且返回Auth
 
 ## ProviderManager
 ![[附件/Pasted image 20230228151900.png]]
+
+ProviderManager 是 AuthenticationManager 最常用的实现方式。ProviderManager 会委托给一个 AuthenticationProvider 实例的列表。每个 AuthenticationProvider 都有机会指示认证成功、失败或指示无法做出决定并允许下游的 AuthenticationProvider 来决定。如果没有配置的 AuthenticationProvider 实例能够进行身份验证，则认证将失败，并抛出 ProviderNotFoundException 异常，这是一种特殊的 AuthenticationException，表示 ProviderManager 没有配置支持传递给它的 Authentication 类型。
+
+![[附件/Pasted image 20230228161151.png]]
+
+默认情况下，尝试从成功的身份验证请求返回的对象中清除任何敏感凭据信息。
+
+## AuthenticationProvider
+##  Request Credentials with AuthenticationEntryPoint
+从客户端发送Http response
