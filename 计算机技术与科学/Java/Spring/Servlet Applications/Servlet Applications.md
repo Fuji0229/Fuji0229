@@ -1,3 +1,4 @@
+## 1. Architectue
 ```java
 <dependency>  
    <groupId>org.springframework.boot</groupId>  
@@ -225,3 +226,7 @@ SecurityFilterChain springSecurity(HttpSecurity http) throws Exception {
 ### RequestCacheAwareFilter
 
 The [`RequestCacheAwareFilter`](https://docs.spring.io/spring-security/site/docs/6.0.2/api/org/springframework/security/web/savedrequest/RequestCacheAwareFilter.html) uses the [`RequestCache`](https://docs.spring.io/spring-security/reference/servlet/architecture.html#requestcache) to save the `HttpServletRequest`.
+
+## 2. Authentication Architecture
+Servlet Authentication Architecture
+
