@@ -1,0 +1,2 @@
+SPI全程（Service Provider Interface）
+可能很多人不太熟悉，因为这个机制是针对厂商或者插件的，也可以在一些框架的扩展中看到。其核心类`java.util.ServiceLoader`可以在[jdk1.8](https://docs.oracle.com/javase/8/docs/api/java/util/ServiceLoader.html)的文档中看到详细的介绍。虽然不太常见，但并不代表它不常用，恰恰相反，你无时无刻不在用它。玄乎了，莫急，思考一下你的项目中是否有用到第三方日志包，是否有用到数据库驱动？其实这些都和SPI有关。再来思考一下，现代的框架是如何加载日志依赖，加载数据库驱动的，你可能会对class.forName(“com.mysql.jdbc.Driver”)这段代码不陌生，这是每个java初学者必定遇到过的，但如今的数据库驱动仍然是这样加载的吗？你还能找到这段代码吗？这一切的疑问，将在本篇文章结束后得到解答。
